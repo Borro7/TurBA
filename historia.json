@@ -137,11 +137,11 @@
   {
     "titulo": {
       "es": "Congreso de la Nación",
-      "en": "National Congress",
+      "en": "National Congress"
     },
     "descripcion": {
       "es": "Arquitectura imponente y política en acción en pleno centro porteño.",
-      "en": "Imposing architecture and politics in action in the heart of Buenos Aires.",
+      "en": "Imposing architecture and politics in action in the heart of Buenos Aires."
     },
     "detalles": {
       "es": "Con su cúpula verde y estilo neoclásico, este edificio es mucho más que una postal. Podés recorrerlo con visitas guiadas gratuitas y ver desde adentro cómo funciona el Congreso argentino.\n\n[Sitio web oficial](https://www.senado.gob.ar/visitasguiadas)\n\n**Cerca:**\nPlaza Congreso, Avenida de Mayo, Congreso Nacional",
@@ -195,4 +195,5 @@
 
 
 ]
+
 
