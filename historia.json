@@ -139,7 +139,7 @@
       "es": "Congreso de la Nación",
       "en": "National Congress",
     },
-    'descripcion': {
+    "descripcion": {
       "es": "Arquitectura imponente y política en acción en pleno centro porteño.",
       "en": "Imposing architecture and politics in action in the heart of Buenos Aires.",
     },
@@ -147,7 +147,7 @@
       "es": "Con su cúpula verde y estilo neoclásico, este edificio es mucho más que una postal. Podés recorrerlo con visitas guiadas gratuitas y ver desde adentro cómo funciona el Congreso argentino.\n\n[Sitio web oficial](https://www.senado.gob.ar/visitasguiadas)\n\n**Cerca:**\nPlaza Congreso, Avenida de Mayo, Congreso Nacional",
       "en": "With its green dome and neoclassical style, this building is more than just a postcard. Free guided tours let you explore the heart of Argentine democracy from the inside.\n\n[Official website](https://www.senado.gob.ar/visitasguiadas)\n\n**Nearby:**\nPlaza Congreso, Avenida de Mayo, National Congress"
     },
-    "imagen': "assets/images/congreso.png",
+    "imagen": "assets/images/congreso.png",
     "ubicacion": "Av. Entre Ríos 51, Monserrat",
     "categoria": "historia",
     "latitud": -34.609681042179645,
@@ -195,3 +195,4 @@
 
 
 ]
+
