@@ -1,0 +1,196 @@
+[
+  {
+    "titulo": {
+      "es": "Catedral Metropolitana",
+      "en": "Metropolitan Cathedral"
+    },
+    "descripcion": {
+      "es": "Principal iglesia católica de Buenos Aires, con arquitectura colonial y neoclásica.",
+      "en": "Main Catholic church of Buenos Aires, featuring colonial and neoclassical architecture."
+    },
+    "detalles": {
+      "es": "La Catedral Metropolitana, justo frente a la Plaza de Mayo, es uno de los lugares más emblemáticos y llenos de historia de Buenos Aires. Más allá de su imponente arquitectura y su interior impresionante, es el lugar donde descansan los restos del General San Martín, uno de los grandes héroes de Argentina. Pasear por sus pasillos es conectarse con la historia del país y sentir la solemnidad y la paz que transmite este espacio único.\n\n**Cerca:**\nPlaza de Mayo, Casa Rosada, Cabildo",
+      "en": "The Metropolitan Cathedral, right in front of Plaza de Mayo, is one of Buenos Aires’ most emblematic and historic spots. Beyond its impressive architecture and stunning interior, it’s the resting place of General San Martín, one of Argentina’s greatest heroes. Walking through its halls connects you with the country’s history and lets you feel the solemnity and peace this unique space offers.\n\n**Nearby:**\nPlaza de Mayo, Casa Rosada, Cabildo"
+    },
+    "imagen": "assets/images/catedral.png",
+    "ubicacion": "San Martín 27, Monserrat",
+    "categoria": "historia",
+    "latitud": -34.60722501017407,
+    "longitud": -58.37321448465739
+  },
+  {
+    "titulo": {
+      "es": "Plaza de Mayo",
+      "en": "Plaza de Mayo"
+    },
+    "descripcion": {
+      "es": "Corazón histórico y político de Buenos Aires, escenario de grandes eventos nacionales.",
+      "en": "Historical and political heart of Buenos Aires, site of major national events."
+    },
+    "detalles": {
+      "es": "La Plaza de Mayo es el corazón de Buenos Aires, un lugar cargado de historia y vida. Desde la fundación de la ciudad, ha sido escenario de momentos clave que marcaron al país. Rodeada por edificios emblemáticos como la Casa Rosada, la Catedral Metropolitana y el Cabildo, es el punto de encuentro ideal para sentir el pulso porteño y conocer la historia que late en cada rincón. Pasear por la plaza es conectar con la ciudad y su gente.\n\n**Cerca:**\nCasa Rosada, Catedral Metropolitana, Cabildo",
+      "en": "Plaza de Mayo is the heart of Buenos Aires, a place full of history and life. Since the city’s founding, it has been the stage for key moments that shaped the country. Surrounded by iconic buildings like the Casa Rosada, the Metropolitan Cathedral, and the Cabildo, it’s the perfect meeting spot to feel the city’s heartbeat and discover the history alive in every corner. Walking through the square is connecting with the city and its people.\n\n**Nearby:**\nCasa Rosada, Metropolitan Cathedral, Cabildo"
+    },
+    "imagen": "assets/images/pzamayo.png",
+    "ubicacion": "Plaza de Mayo, Monserrat",
+    "categoria": "historia",
+    "latitud": -34.607984431994794,
+    "longitud": -58.372163058763164
+  },
+
+  {
+    "titulo": {
+      "es": "Obelisco",
+      "en": "Obelisco"
+    },
+    "descripcion": {
+      "es": "Símbolo icónico de Buenos Aires, ubicado en el cruce de las avenidas más importantes.",
+      "en": "Iconic symbol of Buenos Aires, located at the intersection of the city's main avenues."
+    },
+    "detalles": {
+      "es": "El Obelisco, construido en 1936 para celebrar los 400 años de Buenos Aires, es uno de los símbolos más reconocidos de la ciudad. Más que un monumento, es el punto de encuentro por excelencia para porteños y visitantes, un lugar lleno de historia y energía. Pasar por ahí y verlo iluminado es sentir el latido urbano y la vida vibrante de Buenos Aires.\n\n**Cerca:**\nCalle Corrientes, Teatro Colón, Plaza de la República",
+      "en": "The Obelisco, built in 1936 to celebrate Buenos Aires’ 400th anniversary, is one of the city’s most iconic symbols. More than just a monument, it’s the go-to meeting spot for locals and visitors alike — a place full of history and energy. Passing by and seeing it lit up is to feel the city’s heartbeat and the vibrant life of Buenos Aires.\n\n**Nearby:**\nCorrientes Avenue, Colon Theatre, Plaza de la República"
+    },
+    "imagen": "assets/images/obelisco.png",
+    "ubicacion": "Avenida 9 de Julio y Avenida Corrientes",
+    "categoria": "historia",
+    "latitud": -34.6033394874893,
+    "longitud": -58.38158297682185
+  },
+  {
+    "titulo": {
+      "es": "Manzana de las Luces",
+      "en": "Manzana de las Luces"
+    },
+    "descripcion": {
+      "es": "Conjunto histórico de edificios y pasajes que reflejan la historia cultural y educativa de Buenos Aires.",
+      "en": "Historic complex of buildings and passages reflecting Buenos Aires' cultural and educational history."
+    },
+    "detalles": {
+      "es": "La Manzana de las Luces, en el corazón del casco histórico de Buenos Aires, es un verdadero viaje en el tiempo. Con sus iglesias, colegios y túneles subterráneos que datan de los siglos XVIII y XIX, este conjunto arquitectónico esconde secretos y leyendas que te transportan a otra época. Ideal para quienes disfrutan de paseos con historia y un toque de misterio.\n\n[Sitio web oficial](https://manzanadelasluces.cultura.gob.ar/)\n\n**Cerca:**\nPlaza de Mayo, Catedral Metropolitana, Cabildo",
+      "en": "The Manzana de las Luces, in the heart of Buenos Aires’ historic district, is a true trip back in time. With churches, schools, and underground tunnels dating from the 18th and 19th centuries, this architectural complex hides secrets and legends that transport you to another era. Perfect for those who enjoy historical walks with a touch of mystery.\n\n[Official website](https://manzanadelasluces.cultura.gob.ar/)\n\n**Nearby:**\nPlaza de Mayo, Metropolitan Cathedral, Cabildo"
+    },
+    "imagen": "assets/images/mzanaluces.png",
+    "ubicacion": "Perú 272, Monserrat",
+    "categoria": "historia",
+    "latitud": -34.61039600900394,
+    "longitud": -58.37474316041059
+  },
+  {
+    "titulo": {
+      "es": "Cabildo de Buenos Aires",
+      "en": "Cabildo of Buenos Aires"
+    },
+    "descripcion": {
+      "es": "Icono colonial, clave en la Revolución de Mayo.",
+      "en": "Colonial icon, key in the May Revolution."
+    },
+    "detalles": {
+      "es": "El Cabildo es uno de los edificios coloniales más importantes de Buenos Aires. Fue sede del gobierno local y escenario de momentos clave como la Revolución de Mayo, que inició la independencia argentina. Hoy funciona como museo, donde se pueden ver objetos y exposiciones que cuentan la historia política y social de la ciudad. Es un lugar ideal para conectar con las raíces porteñas y entender la historia de la ciudad.\n\n[Sitio web oficial](https://cabildonacional.cultura.gob.ar/)\n\n**Cerca:**\nPlaza de Mayo, Catedral Metropolitana, Casa Rosada",
+      "en": "The Cabildo is one of Buenos Aires’ most important colonial buildings. It served as the local government seat and was the scene of key moments like the May Revolution, which started Argentina’s independence. Today it functions as a museum, where you can see objects and exhibitions telling the city’s political and social history. It’s a great place to connect with Buenos Aires’ roots and understand its history.\n\n[Official website](https://cabildonacional.cultura.gob.ar/)\n\n**Nearby:**\nPlaza de Mayo, Metropolitan Cathedral, Casa Rosada"
+    },
+    "imagen": "assets/images/cabildo.png",
+    "ubicacion": "Bolívar 65, frente a Plaza de Mayo",
+    "categoria": "historia",
+    "latitud": -34.60862112195894,
+    "longitud": -58.37380975170857
+  },
+  {
+    "titulo": {
+      "es": "Cementerio de la Recoleta",
+      "en": "Recoleta Cemetery"
+    },
+    "descripcion": {
+      "es": "Necrópolis monumental con figuras históricas como Evita Perón.",
+      "en": "Monumental necropolis with historical figures like Evita Perón."
+    },
+    "detalles": {
+      "es": "El Cementerio de la Recoleta es mucho más que un lugar de descanso; es un museo al aire libre con esculturas impresionantes y mausoleos del siglo XIX que cuentan historias fascinantes. Aquí descansan grandes personajes de la historia argentina, como Eva Perón. Ofrecen visitas guiadas todos los días para que puedas conocer todos los secretos y leyendas que este lugar esconde. Un plan diferente para quienes disfrutan de la historia y el arte en un entorno único.\n\n**Cerca:**\nBarrio Recoleta, Museo Nacional de Bellas Artes, Centro Cultural Recoleta",
+      "en": "Recoleta Cemetery is much more than a resting place; it’s an open-air museum with stunning sculptures and 19th-century mausoleums that tell fascinating stories. Here lie some of Argentina’s most prominent historical figures, including Eva Perón. Guided tours are available daily so you can uncover the secrets and legends this place holds. A unique plan for those who enjoy history and art in a one-of-a-kind setting.\n\n**Nearby:**\nRecoleta neighborhood, National Museum of Fine Arts, Recoleta Cultural Center"
+    },
+    "imagen": "assets/images/recoleta_cemetery.png",
+    "ubicacion": "Junín 1760, Recoleta",
+    "categoria": "historia",
+    "latitud": -34.58717838733938,
+    "longitud": -58.39296623342596
+  },
+  {
+    "titulo": {
+      "es": "Casa Rosada",
+      "en": "Casa Rosada"
+    },
+    "descripcion": {
+      "es": "Sede del Poder Ejecutivo Nacional, ícono político e histórico.",
+      "en": "Seat of the National Executive Power, political and historical icon."
+    },
+    "detalles": {
+      "es": "La Casa Rosada, ubicada frente a la Plaza de Mayo, es el palacio presidencial de Argentina y un ícono histórico de la ciudad. En su interior se encuentran salones emblemáticos como el Salón Blanco, donde se realizan ceremonias oficiales. Además, alberga el Museo de la Casa de Gobierno, que ofrece una mirada profunda a la historia política del país.\n\nSe ofrecen visitas guiadas gratuitas en español e inglés. Es necesario reservar con antelación a través del sitio web oficial y presentar un documento de identidad al ingresar.\n\n**Cerca:**\nPlaza de Mayo, Catedral Metropolitana, Cabildo",
+      "en": "The Casa Rosada, located in front of Plaza de Mayo, is Argentina's presidential palace and a historic landmark in the city. Inside, you'll find emblematic halls like the White Hall, where official ceremonies take place. It also houses the Government House Museum, offering an in-depth look at the country's political history.\n\nFree guided tours are available in Spanish and English. Advance reservation through the official website is required, and a valid ID must be presented upon entry.\n\n**Nearby:**\nPlaza de Mayo, Metropolitan Cathedral, Cabildo"
+    },
+    "imagen": "assets/images/casarosada.png",
+    "ubicacion": "Balcarce 50, Monserrat",
+    "categoria": "historia",
+    "latitud": -34.60763612606419,
+    "longitud": -58.370277804589115
+  },
+
+  {
+    'titulo': {
+      'es': 'Congreso de la Nación',
+      'en': 'National Congress',
+    },
+    'descripcion': {
+      'es': 'Arquitectura imponente y política en acción en pleno centro porteño.',
+      'en': 'Imposing architecture and politics in action in the heart of Buenos Aires.',
+    },
+    "detalles": {
+      "es": "Con su cúpula verde y estilo neoclásico, este edificio es mucho más que una postal. Podés recorrerlo con visitas guiadas gratuitas y ver desde adentro cómo funciona el Congreso argentino.\n\n[Sitio web oficial](https://www.senado.gob.ar/visitasguiadas)\n\n**Cerca:**\nPlaza Congreso, Avenida de Mayo, Congreso Nacional",
+      "en": "With its green dome and neoclassical style, this building is more than just a postcard. Free guided tours let you explore the heart of Argentine democracy from the inside.\n\n[Official website](https://www.senado.gob.ar/visitasguiadas)\n\n**Nearby:**\nPlaza Congreso, Avenida de Mayo, National Congress"
+    },
+    'imagen': 'assets/images/congreso.png',
+    'ubicacion': 'Av. Entre Ríos 51, Monserrat',
+    'categoria': 'historia',
+    "latitud": -34.609681042179645,
+    "longitud": -58.39257830212557
+  },
+
+  {
+    "titulo": {
+      "es": "Palacio Barolo",
+      "en": "Barolo Palace"
+    },
+    "descripcion": {
+      "es": "Edificio emblemático inspirado en La Divina Comedia, con arquitectura única y visitas guiadas.",
+      "en": "Iconic building inspired by The Divine Comedy, featuring unique architecture and guided tours."
+    },
+    "detalles": {
+      "es": "Construido en 1923, el Palacio Barolo es una joya arquitectónica en Avenida de Mayo que simboliza la mitología y poesía de Dante Alighieri. Sus visitas guiadas permiten conocer detalles de su diseño y disfrutar de vistas panorámicas increíbles.\n\n[Sitio web oficial](https://palaciobarolo.com.ar/)\n\n**Cerca:**\nAvenida de Mayo, Congreso Nacional, Palacio del Congreso",
+      "en": "Built in 1923, the Barolo Palace is an architectural gem on Avenida de Mayo symbolizing the mythology and poetry of Dante Alighieri. Guided tours reveal its design details and offer stunning panoramic views.\n\n[Official website](https://palaciobarolo.com.ar/)\n\n**Nearby:**\nAvenida de Mayo, National Congress, Congress Palace"
+    },
+    "imagen": "assets/images/pbarolo.png",
+    "ubicacion": "Avenida de Mayo 1370, Monserrat",
+    "categoria": "historia",
+    "latitud": -34.60922491572301,
+    "longitud": -58.3859286352743
+  },
+  {
+    "titulo": {
+      "es": "Palacio de Aguas Corrientes",
+      "en": "Palace of Running Waters"
+    },
+    "descripcion": {
+      "es": "Imponente edificio del siglo XIX, joya de la arquitectura sanitaria y urbana.",
+      "en": "Imposing 19th-century building, a jewel of sanitary and urban architecture."
+    },
+    "detalles": {
+      "es": "Inaugurado en 1894, el Palacio de Aguas Corrientes fue diseñado para alojar tanques de agua potable en su interior. Su fachada está revestida con más de 300 mil piezas de cerámica importadas de Europa, que le dan un estilo único y colorido. En su interior funciona el Museo del Agua y de la Historia Sanitaria, donde podés conocer más sobre el suministro de agua y la evolución sanitaria en Buenos Aires.\n\n[Sitio web oficial](https://aysa.com.ar/culturayeducacion/palacio)\n\n**Cerca:**\nPalermo, Plaza Italia, Jardín Botánico",
+      "en": "Inaugurated in 1894, the Palace of Running Waters was built to house drinking water tanks. Its façade is covered with over 300,000 ceramic pieces imported from Europe, giving it a unique and colorful style. Inside, it hosts the Museum of Water and Sanitary History, where you can learn about water supply and sanitary evolution in Buenos Aires.\n\n[Official website](https://aysa.com.ar/culturayeducacion/palacio)\n\n**Nearby:**\nPalermo, Plaza Italia, Botanical Garden"
+    },
+    "imagen": "assets/images/paguas.png",
+    "ubicacion": "Riobamba 750, Balvanera",
+    "categoria": "historia",
+    "latitud": -34.59952055998727,
+    "longitud": -58.39398291075168
+  }
+
+]
