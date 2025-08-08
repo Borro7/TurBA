@@ -103,23 +103,24 @@
   },
 
   {
-    'titulo': {
-      'es': 'Helado Artesanal',
-      'en': 'Artisanal Ice Cream',
+    "titulo": {
+      "es": "Helado Artesanal",
+      "en": "Artisanal Ice Cream"
     },
-    'descripcion': {
-      'es': 'Una pasión bien argentina, entre tradición italiana y creatividad local.',
-      'en': 'A true Argentine passion, blending Italian tradition with local creativity.',
+    "descripcion": {
+      "es": "Una pasión bien argentina, entre tradición italiana y creatividad local.",
+      "en": "A true Argentine passion, blending Italian tradition with local creativity."
     },
-    'detalles': {
-      'es': 'El helado en Buenos Aires es más que un postre: es un ritual. Encontrás heladerías artesanales en cada barrio, con sabores clásicos como dulce de leche o innovaciones como malbec con frutos rojos. Ideal para cerrar una caminata o compartir una charla nocturna.',
-      'en': 'In Buenos Aires, ice cream is more than dessert—it’s a ritual. You’ll find artisanal parlors in every neighborhood, offering classics like dulce de leche or bold twists like Malbec with berries. Perfect to wrap up a stroll or spark a late-night chat.',
+    "detalles": {
+      "es": "El helado en Buenos Aires es más que un postre: es un ritual. Encontrás heladerías artesanales en cada barrio, con sabores clásicos como dulce de leche o innovaciones como malbec con frutos rojos. Ideal para cerrar una caminata o compartir una charla nocturna.",
+      "en": "In Buenos Aires, ice cream is more than dessert—it’s a ritual. You’ll find artisanal parlors in every neighborhood, offering classics like dulce de leche or bold twists like Malbec with berries. Perfect to wrap up a stroll or spark a late-night chat."
     },
-    'imagen': 'assets/images/helado.png',
-    'ubicacion': 'Diversas heladerías recomendadas por la ciudad',
-    'categoria': 'comida',
+    "imagen": "assets/images/helado.png",
+    "ubicacion": "Diversas heladerías recomendadas por la ciudad",
+    "categoria": "comida",
     "latitud": -34.6037,
     "longitud": -58.3816
   },
+
 
 ]
