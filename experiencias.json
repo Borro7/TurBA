@@ -103,43 +103,43 @@
   },
 
   {
-    'titulo': {
-      'es': 'La Bomba de Tiempo',
-      'en': 'La Bomba de Tiempo',
+    "titulo": {
+      "es": "La Bomba de Tiempo",
+      "en": "La Bomba de Tiempo"
     },
-    'descripcion': {
-      'es': 'Percusión en vivo al ritmo del pulso porteño.',
-      'en': 'Live percussion to the beat of Buenos Aires.',
+    "descripcion": {
+      "es": "Percusión en vivo al ritmo del pulso porteño.",
+      "en": "Live percussion to the beat of Buenos Aires."
     },
     "detalles": {
       "es": "La Bomba de Tiempo es una de esas experiencias que hay que vivir en Buenos Aires. Todos los lunes, el patio del Ciudad Cultural Konex se llena de energía con su percusión en vivo, donde más de una docena de músicos fusionan ritmos afroamericanos con improvisación dirigida por señas. El público no solo escucha: salta, baila y se deja llevar por un show que nunca es igual al anterior. Ideal para arrancar la semana con pura vibra porteña.\n\n[Sitio web oficial](https://www.labombadetiempo.com/)\n\n[Instagram](https://www.instagram.com/labombadetiempo/)",
       "en": "La Bomba de Tiempo is one of those must-experience events in Buenos Aires. Every Monday, the courtyard of Ciudad Cultural Konex comes alive with more than a dozen musicians fusing Afro-American rhythms with signal-directed improvisation. The audience doesn’t just listen — they jump, dance, and get carried away by a show that’s never the same twice. Perfect for starting the week with pure porteño vibes.\n\n[Official website](https://www.labombadetiempo.com/)\n\n[Instagram](https://www.instagram.com/labombadetiempo/)"
     },
-    'imagen': 'assets/images/bomba.png',
-    'ubicacion': 'Sarmiento 3131, Abasto',
-    'categoria': 'experiencias',
-    'latitud': -34.60637519959758,
-    'longitud': -58.4104269162326
+    "imagen": "assets/images/bomba.png",
+    "ubicacion": "Sarmiento 3131, Abasto",
+    "categoria": "experiencias",
+    "latitud": -34.60637519959758,
+    "longitud": -58.4104269162326
   },
 
   {
-    'titulo': {
-      'es': 'La Grande',
-      'en': 'La Grande',
+    "titulo": {
+      "es": "La Grande",
+      "en": "La Grande"
     },
-    'descripcion': {
-      'es': 'Jam de improvisación rítmica dirigida por Santiago Vázquez.',
-      'en': 'Rhythmic improvisation jam led by Santiago Vázquez.',
+    "descripcion": {
+      "es": "Jam de improvisación rítmica dirigida por Santiago Vázquez.",
+      "en": "Rhythmic improvisation jam led by Santiago Vázquez."
     },
     "detalles": {
       "es": "La Grande es el plan ideal para arrancar el martes con buena onda y música en vivo. Cada semana ofrecen DJs, jam sessions abiertas para que cualquier músico se sume, y hasta ping pong y metegol para divertirse con amigos. Todo acompañado de una barra con tragos y comida para pasarla genial en un ambiente relajado y lleno de buena vibra.\n\n[**Instagram:**](https://www.instagram.com/lagrande_banda)\n\n**Cerca:**\nPalermo, Chacarita, Plaza Serrano, Plaza Armenia",
       "en": "La Grande is the perfect plan to kick off your Tuesday with good vibes and live music. Every week they have DJs, open jam sessions where any musician can join, plus ping pong and foosball to have fun with friends. All this comes with a bar serving drinks and food to enjoy a great time in a relaxed and lively atmosphere.\n\n[**Instagram:**](https://www.instagram.com/lagrande_banda)\n\n**Nearby:**\nPalermo, Chacarita, Plaza Serrano, Plaza Armenia"
     },
-    'imagen': 'assets/images/grande.png',
-    'ubicacion': 'Santos Dumont 4040, Chacarita',
-    'categoria': 'experiencias',
-    'latitud': -34.58746748143318,
-    'longitud': -58.450245054784624
+    "imagen": "assets/images/grande.png",
+    "ubicacion": "Santos Dumont 4040, Chacarita",
+    "categoria": "experiencias",
+    "latitud": -34.58746748143318,
+    "longitud": -58.450245054784624
   },
 
 
@@ -167,3 +167,4 @@
 
 
 ]
+
