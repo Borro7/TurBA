@@ -1,21 +1,21 @@
 [
   {
-    'titulo': {
-      'es': 'Floralis Genérica',
-      'en': 'Floralis Genérica',
+    "titulo": {
+      "es": "Floralis Genérica",
+      "en": "Floralis Genérica"
     },
-    'descripcion': {
-      'es': 'Escultura metálica que se abre y cierra según la luz solar.',
-      'en': 'Metallic sculpture that opens and closes with sunlight.',
+    "descripcion': {
+      "es": "Escultura metálica que se abre y cierra según la luz solar.",
+      "en": "Metallic sculpture that opens and closes with sunlight."
     },
 
     "detalles": {
       "es": "Ubicada en la Plaza de las Naciones Unidas, la Floralis Genérica es una escultura de acero y aluminio que se ha convertido en un ícono moderno de Buenos Aires. Sus grandes pétalos metálicos se abren durante el día y se cierran por la noche, como un homenaje a la naturaleza y la tecnología. Es un punto ideal para sacar fotos y disfrutar de un paseo al aire libre.\n\n**Cerca:**\n Bosques de Palermo, Facultad de Derecho",
       "en": "Located in Plaza Naciones Unidas, the Floralis Genérica is a steel and aluminum sculpture that has become a modern icon of Buenos Aires. Its large metallic petals open during the day and close at night, as a tribute to nature and technology. It's a great spot for photos and a relaxing outdoor walk.\n\n**Nearby:**\n Bosques de Palermo, Law School"
     },
-    'imagen': 'assets/images/floralis.png',
-    'ubicacion': 'Av. Pres. Figueroa Alcorta 2301, Recoleta',
-    'categoria': 'parques',
+    "imagen": "assets/images/floralis.png",
+    "ubicacion": "Av. Pres. Figueroa Alcorta 2301, Recoleta",
+    "categoria": "parques",
     "latitud": -34.581500007909284, 
     "longitud": -58.39325094376606
   },
@@ -61,21 +61,21 @@
   },
 
   {
-    'titulo': {
-      'es': 'Jardín Japonés',
-      'en': 'Japanese Garden',
+    "titulo": {
+      "es": "Jardín Japonés",
+      "en": "Japanese Garden"
     },
-    'descripcion': {
-      'es': 'Un jardín oriental de estilo tradicional en el corazón de Palermo.',
-      'en': 'A traditional-style Japanese garden in the heart of Palermo.',
+    "descripcion": {
+      "es": "Un jardín oriental de estilo tradicional en el corazón de Palermo.",
+      "en": "A traditional-style Japanese garden in the heart of Palermo."
     },
     "detalles": {
       "es": "Diseñado con estanques, puentes de madera, bonsáis y flores exóticas, este jardín ofrece un espacio de calma y contemplación. Cuenta con un vivero, restaurante japonés y actividades culturales que acercan la tradición nipona al corazón de Buenos Aires.\n\n[Sitio web oficial](https://jardinjapones.org.ar/)\n\n**Cerca:**\nBosques de Palermo, Planetario, Museo de Ciencias Naturales",
       "en": "Designed with ponds, wooden bridges, bonsais and exotic flowers, this garden offers a space for calm and contemplation. It includes a plant nursery, Japanese restaurant, and cultural activities that bring Japanese tradition to the heart of Buenos Aires.\n\n[Official website](https://jardinjapones.org.ar/)\n\n**Nearby:**\nBosques de Palermo, Planetarium, Natural Sciences Museum"
     },
-    'imagen': 'assets/images/japones.png',
-    'ubicacion': 'Av. Casares 2966, Palermo',
-    'categoria': 'parques',
+    "imagen": "assets/images/japones.png",
+    "ubicacion": "Av. Casares 2966, Palermo",
+    "categoria": "parques",
     "latitud": -34.57517423105772,
     "longitud": -58.409358064918926
   },
@@ -123,3 +123,4 @@
 
 
 ]
+
