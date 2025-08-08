@@ -212,22 +212,23 @@
     "longitud": -58.38297375301289
   },
   {
-    'titulo': {
-      'es': 'Facultad de Derecho - UBA',
-      'en': 'Law School - UBA',
+    "titulo": {
+      "es": "Facultad de Derecho - UBA",
+      "en": "Law School - UBA"
     },
-    'descripcion': {
-      'es': 'Imponente edificio neoclásico frente a la Floralis Genérica.',
-      'en': 'Imposing neoclassical building across from the Floralis Genérica.',
+    "descripcion": {
+      "es": "Imponente edificio neoclásico frente a la Floralis Genérica.",
+      "en": "Imposing neoclassical building across from the Floralis Genérica."
     },
     "detalles": {
       "es": "La Facultad de Derecho de la Universidad de Buenos Aires es uno de los edificios más imponentes de la ciudad. Con su fachada de columnas monumentales y su arquitectura de estilo neoclásico, es imposible no quedarse mirando. Aunque no seas estudiante, vale la pena acercarse para recorrer sus escaleras, admirar el salón de actos y disfrutar las vistas a la Plaza Naciones Unidas y la Floralis Genérica, que está justo enfrente. De noche, iluminada, se ve espectacular.\n\n**Cerca:**\nFloralis Genérica, Museo Nacional de Bellas Artes",
       "en": "The University of Buenos Aires Faculty of Law is one of the city’s most striking buildings. With its monumental columned façade and neoclassical architecture, it’s impossible not to stop and stare. Even if you’re not a student, it’s worth visiting to walk up its grand staircases, admire the main hall, and enjoy the views of Plaza Naciones Unidas and the Floralis Genérica sculpture just across the street. At night, when it’s lit up, it looks spectacular.\n\n**Nearby:**\nFloralis Genérica, Plaza Naciones Unidas, National Museum of Fine Arts"
     },
-    'imagen': 'assets/images/uba.png',
-    'ubicacion': 'Av. Pres. Figueroa Alcorta 2263, Recoleta',
-    'categoria': 'cultura',
-    'latitud': -34.58246204309487,
-    'longitud': -58.39163628184967
+    "imagen": "assets/images/uba.png",
+    "ubicacion": "Av. Pres. Figueroa Alcorta 2263, Recoleta",
+    "categoria": "cultura",
+    "latitud": -34.58246204309487,
+    "longitud": -58.39163628184967
   },
 ]
+
