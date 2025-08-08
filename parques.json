@@ -1,0 +1,125 @@
+[
+  {
+    'titulo': {
+      'es': 'Floralis Genérica',
+      'en': 'Floralis Genérica',
+    },
+    'descripcion': {
+      'es': 'Escultura metálica que se abre y cierra según la luz solar.',
+      'en': 'Metallic sculpture that opens and closes with sunlight.',
+    },
+
+    "detalles": {
+      "es": "Ubicada en la Plaza de las Naciones Unidas, la Floralis Genérica es una escultura de acero y aluminio que se ha convertido en un ícono moderno de Buenos Aires. Sus grandes pétalos metálicos se abren durante el día y se cierran por la noche, como un homenaje a la naturaleza y la tecnología. Es un punto ideal para sacar fotos y disfrutar de un paseo al aire libre.\n\n**Cerca:**\n Bosques de Palermo, Facultad de Derecho",
+      "en": "Located in Plaza Naciones Unidas, the Floralis Genérica is a steel and aluminum sculpture that has become a modern icon of Buenos Aires. Its large metallic petals open during the day and close at night, as a tribute to nature and technology. It's a great spot for photos and a relaxing outdoor walk.\n\n**Nearby:**\n Bosques de Palermo, Law School"
+    },
+    'imagen': 'assets/images/floralis.png',
+    'ubicacion': 'Av. Pres. Figueroa Alcorta 2301, Recoleta',
+    'categoria': 'parques',
+    "latitud": -34.581500007909284, 
+    "longitud": -58.39325094376606
+  },
+
+  {
+    "titulo": {
+      "es": "Planetario de Buenos Aires",
+      "en": "Buenos Aires Planetarium"
+    },
+    "descripcion": {
+      "es": "Un espacio para descubrir el cosmos y conectarte con las estrellas, en medio de la ciudad.",
+      "en": "A place to explore the cosmos and connect with the stars, right in the city."
+    },
+    "detalles": {
+      "es": "El Planetario ofrece proyecciones inmersivas que te llevan a un viaje por el universo, combinando ciencia, tecnología y arte. Ideal para una salida diferente, sola o con amigos, donde podés aprender, sorprenderte y relajarte bajo un techo estrellado. Ubicado en el corazón de los Bosques de Palermo, es un plan perfecto para desconectarte sin salir de la ciudad.\n\n[Sitio web oficial](https://planetario.buenosaires.gob.ar/)\n\n**Cerca:**\nBosques de Palermo, Jardín Japonés, Museo de Ciencias Naturales",
+      "en": "The Planetarium offers immersive projections that take you on a journey through the universe, blending science, technology, and art. Perfect for a different kind of outing, alone or with friends, where you can learn, be amazed, and relax under a starry dome. Located in the heart of Bosques de Palermo, it’s the perfect plan to disconnect without leaving the city.\n\n[Official website](https://planetario.buenosaires.gob.ar/)\n\n**Nearby:**\nBosques de Palermo, Japanese Garden, Natural Sciences Museum"
+    },
+    "imagen": "assets/images/planetario.png",
+    "ubicacion": "Bosques de Palermo, Buenos Aires",
+    "categoria": "parques",
+    "latitud": -34.56931804734959,
+    "longitud": -58.41167235512469
+  },
+
+  {
+    "titulo": {
+      "es": "Bosques de Palermo",
+      "en": "Bosques de Palermo"
+    },
+    "descripcion": {
+      "es": "Un enorme pulmón verde en la ciudad, con lagos, jardines y espacios ideales para desconectarse y disfrutar al aire libre.",
+      "en": "A huge green lung in the city, with lakes, gardens, and perfect spots to disconnect and enjoy the outdoors."
+    },
+    "detalles": {
+      "es": "Bosques de Palermo es el lugar ideal para escaparte a caminar, pedalear o simplemente relajarte en medio de la naturaleza. Podés recorrer el Rosedal, maravillarte con el Jardín Japonés o visitar el Planetario para un plan diferente. Todo en un ambiente fresco y vibrante que invita a compartir momentos con amigos o en solitario.",
+      "en": "Bosques de Palermo is the perfect spot to go for a walk, ride your bike, or just chill surrounded by nature. You can explore the Rose Garden, get amazed by the Japanese Garden, or visit the Planetarium for something different. All in a fresh, vibrant atmosphere that’s perfect for sharing moments with friends or enjoying some solo time."
+    },
+    "imagen": "assets/images/bosques.png",
+    "ubicacion": "Palermo, Ciudad Autónoma de Buenos Aires",
+    "categoria": "parques",
+    "latitud": -34.57327583433326, 
+    "longitud": -58.41512704033265
+  },
+
+  {
+    'titulo': {
+      'es': 'Jardín Japonés',
+      'en': 'Japanese Garden',
+    },
+    'descripcion': {
+      'es': 'Un jardín oriental de estilo tradicional en el corazón de Palermo.',
+      'en': 'A traditional-style Japanese garden in the heart of Palermo.',
+    },
+    "detalles": {
+      "es": "Diseñado con estanques, puentes de madera, bonsáis y flores exóticas, este jardín ofrece un espacio de calma y contemplación. Cuenta con un vivero, restaurante japonés y actividades culturales que acercan la tradición nipona al corazón de Buenos Aires.\n\n[Sitio web oficial](https://jardinjapones.org.ar/)\n\n**Cerca:**\nBosques de Palermo, Planetario, Museo de Ciencias Naturales",
+      "en": "Designed with ponds, wooden bridges, bonsais and exotic flowers, this garden offers a space for calm and contemplation. It includes a plant nursery, Japanese restaurant, and cultural activities that bring Japanese tradition to the heart of Buenos Aires.\n\n[Official website](https://jardinjapones.org.ar/)\n\n**Nearby:**\nBosques de Palermo, Planetarium, Natural Sciences Museum"
+    },
+    'imagen': 'assets/images/japones.png',
+    'ubicacion': 'Av. Casares 2966, Palermo',
+    'categoria': 'parques',
+    "latitud": -34.57517423105772,
+    "longitud": -58.409358064918926
+  },
+
+  {
+    "titulo": {
+      "es": "Jardín Botánico Carlos Thays",
+      "en": "Carlos Thays Botanical Garden"
+    },
+    "descripcion": {
+      "es": "Espacio verde con miles de especies de plantas y esculturas al aire libre.",
+      "en": "Green space with thousands of plant species and open-air sculptures."
+    },
+    "detalles": {
+      "es": "Un oasis en medio de la ciudad, ideal para una pausa tranquila entre plantas nativas y exóticas. También alberga invernaderos, esculturas y senderos para recorrer con calma. La entrada es libre, perfecto para desconectar y disfrutar de la naturaleza sin salir de Buenos Aires.\n\n[Sitio web oficial](https://www.buenosaires.gob.ar/jardinbotanico)\n\n**Cerca:**\nPalermo, Plaza Italia, Museo de Arte Latinoamericano (MALBA)",
+      "en": "An oasis in the middle of the city, ideal for a quiet break among native and exotic plants. It also features greenhouses, sculptures, and peaceful walking paths. Free entry makes it perfect to disconnect and enjoy nature without leaving Buenos Aires.\n\n[Official website](https://www.buenosaires.gob.ar/jardinbotanico)\n\n**Nearby:**\nPalermo, Plaza Italia, Latin American Art Museum (MALBA)"
+    },
+    "imagen": "assets/images/jardin.png",
+    "ubicacion": "Av. Santa Fe 3951, Palermo",
+    "categoria": "parques",
+    "latitud": -34.58240629995299,
+    "longitud": -58.41789316335375
+  },
+
+  {
+    "titulo": {
+      "es": "Reserva Ecológica Costanera Sur",
+      "en": "Costanera Sur Ecological Reserve"
+    },
+    "descripcion": {
+      "es": "Un espacio natural cerca del río, ideal para caminar, hacer picnic y ver aves.",
+      "en": "A natural spot by the river, perfect for walking, picnics, and birdwatching."
+    },
+    "detalles": {
+      "es": "La Reserva Ecológica tiene caminos para caminar tranquilo, miradores con buenas vistas y lugares para sentarse a disfrutar el día. Está a un paso del centro y es un plan ideal para despejarse y pasar un rato al aire libre sin complicaciones.\n\nAbre de martes a domingos hasta las 18 hs.\n\n[Sitio web oficial](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/reserva-ecologica-costanera-sur)\n\n**Cerca:**\nPuerto Madero",
+      "en": "The Ecological Reserve has easy trails to walk, lookout spots with nice views, and places to sit and relax. It’s just a short trip from downtown and a great way to clear your head and spend some chill time outdoors.\n\nOpen Tuesday to Sunday until 6 PM.\n\n[Official website](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/reserva-ecologica-costanera-sur)\n\n**Nearby:**\nPuerto Madero"
+    },
+    "imagen": "assets/images/reserva.png",
+    "ubicacion": "Av. España y R. Obligado, Puerto Madero",
+    "categoria": "parques",
+    "latitud": -34.616619599909924,  
+    "longitud": -58.35685428772089
+  }
+
+
+
+]

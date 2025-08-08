@@ -1,0 +1,169 @@
+[
+  {
+    "titulo": {
+      "es": "Caminito",
+      "en": "Caminito"
+    },
+    "descripcion": {
+      "es": "Una calle museo vibrante y colorida que refleja la cultura porteña y el espíritu del tango.",
+      "en": "A vibrant, colorful street museum that reflects Buenos Aires' culture and the spirit of tango."
+    },
+    "detalles": {
+      "es": "Caminito, en el corazón de La Boca, es como caminar dentro de una postal llena de colores vivos y energía porteña. Sus casas de chapa pintadas, el arte callejero y el tango que suena en cada esquina lo convierten en uno de los rincones más icónicos de Buenos Aires. Podés pasear sin apuro, ver artistas trabajando en vivo, sacarte fotos únicas y probar comida típica en alguno de sus bares o bodegones. Es también un lugar donde se respira la historia de los inmigrantes y la identidad cultural de la ciudad.\n\n**Cerca:**\nLa Bombonera, Museo Quinquela Martín",
+      "en": "Caminito, in the heart of La Boca, feels like stepping into a postcard full of bright colors and Buenos Aires energy. Its brightly painted tin houses, street art, and tango on every corner make it one of the city’s most iconic spots. You can wander at your own pace, watch artists working live, snap unique photos, and try traditional food in one of its bars or bodegones. It’s also a place where you can feel the history of immigrants and the city’s cultural identity.\n\n**Nearby:**\nLa Bombonera, Quinquela Martín Museum"
+    },
+    "imagen": "assets/images/caminito.png",
+    "ubicacion": "La Boca, Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.63918877966073, 
+    "longitud": -58.36238029260166
+  },
+
+  {
+    "titulo": {
+      "es": "Milonga Porteña",
+      "en": "Porteño Milonga"
+    },
+    "descripcion": {
+      "es": "Una experiencia auténtica para vivir el tango en su máxima expresión en Buenos Aires.",
+      "en": "An authentic experience to live tango at its fullest in Buenos Aires."
+    },
+    "detalles": {
+      "es": "Las milongas son reuniones sociales donde se baila tango, desde principiantes hasta expertos. En Buenos Aires, existen numerosos lugares tradicionales donde se puede disfrutar de la música en vivo y de clases para quienes quieran aprender. Es una oportunidad única para sumergirse en la pasión y la historia del tango porteño.\n\nAlgunos lugares recomendados:\n\n**San Telmo**\n1. El Viejo Almacén – Show de tango tradicional con cena y música en vivo. (https://www.viejoalmacen.com)\n2. Plaza Dorrego – Milonga al aire libre los domingos por la tarde.\n3. Bar Sur – Íntimo y clásico, con show en vivo todas las noches. (https://www.barsur.com.ar)\n\n**Almagro**\n1. Salón Canning – Referente histórico con milongas y orquestas en vivo.\n2. La Catedral Club – Espacio alternativo y bohemio con clases y música. (https://www.lacatedralclub.com)\n\n**Centro / Congreso**\n1. El Beso – Milonga popular con gran ambiente social.\n2. Club Gricel – Tradicional, con orquestas y bailarines de alto nivel.\n\n**La Boca**\n1. Café de los Angelitos – Cena-show con gran producción artística. (https://www.cafedelosangelitos.com)\n2. Esquina Homero Manzi – Historia y tango en un ambiente porteño clásico. (https://www.esquinahomeromanzi.com.ar)\n\n**Palermo**\n1. Maldita Milonga (Club Villa Malcolm) – Clases, shows y orquesta en vivo.\n2. La Viruta – Ideal para principiantes, ambiente distendido y variado. (https://www.lavirutatango.com)",
+      "en": "Milongas are social gatherings where tango is danced, from beginners to experts. In Buenos Aires, there are many traditional venues to enjoy live music and take classes for those who want to learn. It's a unique opportunity to immerse yourself in the passion and history of porteño tango.\n\nSome recommended places:\n\n**San Telmo**\n1. El Viejo Almacén – Traditional tango show with dinner and live music. (https://www.viejoalmacen.com)\n2. Plaza Dorrego – Open-air milonga on Sunday afternoons.\n3. Bar Sur – Intimate and classic, with live show every night. (https://www.barsur.com.ar)\n\n**Almagro**\n1. Salón Canning – Historic venue with milongas and live orchestras.\n2. La Catedral Club – Alternative bohemian space with classes and music. (https://www.lacatedralclub.com)\n\n**Centro / Congreso**\n1. El Beso – Popular milonga with a great social atmosphere.\n2. Club Gricel – Traditional, with orchestras and top-level dancers.\n\n**La Boca**\n1. Café de los Angelitos – Dinner show with great artistic production. (https://www.cafedelosangelitos.com)\n2. Esquina Homero Manzi – History and tango in a classic porteño atmosphere. (https://www.esquinahomeromanzi.com.ar)\n\n**Palermo**\n1. Maldita Milonga (Club Villa Malcolm) – Classes, shows, and live orchestra.\n2. La Viruta – Ideal for beginners, relaxed and varied atmosphere. (https://www.lavirutatango.com)"
+    },
+    "imagen": "assets/images/milonga.png",
+    "ubicacion": "San Telmo, Buenos Aires",
+    "categoria": "experiencias",
+    "latitud": -34.617683614991115, 
+    "longitud": -58.37011265215845
+  },
+
+  {
+    "titulo": {
+      "es": "Pasión de Multitudes",
+      "en": "Where Football Lives"
+    },
+    "descripcion": {
+      "es": "Buenos Aires respira fútbol: una ciudad con más clubes que ninguna otra y una energía única en cada partido.",
+      "en": "Buenos Aires breathes football: a city with more clubs than anywhere else and a unique energy at every match."
+    },
+    "detalles": {
+      "es": "Buenos Aires es una de las ciudades con más clubes de fútbol en el planeta, y eso se nota en cada esquina. Desde la mítica Bombonera, donde late Boca Juniors, hasta el Monumental de River, el estadio más grande de Sudamérica, la pasión se vive a flor de piel. Acá el fútbol es religión: 4 millones salieron a la calle para festejar el Mundial ganado por Messi. Podés ir a la cancha, hacer tours por estadios históricos, o simplemente ver un partido en un bar lleno de hinchas gritando cada jugada. Si querés entender el alma argentina, tenés que vivir el fútbol como lo hacen acá.",
+      "en": "Buenos Aires has more football clubs than almost any city in the world — and it shows. From the legendary Bombonera (home of Boca Juniors) to River Plate’s Monumental, the largest stadium in South America, passion is everywhere. When Argentina won the World Cup with Messi, 4 million people took to the streets to celebrate. You can visit iconic stadiums, take guided tours, or just feel the energy in a packed bar cheering every move. To understand Argentina’s soul, you have to experience football the way locals do."
+    },
+    "imagen": "assets/images/futbol.png",
+    "ubicacion": "La Bombonera / El Monumental, Buenos Aires",
+    "categoria": "experiencias",
+    "latitud": -34.635611,
+    "longitud": -58.364064
+  },
+
+  {
+    "titulo": {
+      "es": "Buenas Noches, Buenos Aires",
+      "en": "Cheers, Buenos Aires"
+    },
+    "descripcion": {
+      "es": "Explorá la noche porteña entre bares con personalidad, coctelería de autor y rincones con encanto.",
+      "en": "Discover Buenos Aires' nightlife through stylish bars, signature cocktails, and charming hideouts."
+    },
+    "detalles": {
+      "es": "La noche en Buenos Aires tiene su propio ritmo, y se vive entre luces tenues, copas bien servidas y atmósferas que invitan a quedarse. En barrios como Palermo, Chacarita y Colegiales, una nueva generación de bares propone experiencias únicas: desde speakeasies escondidos tras puertas sin cartel hasta terrazas con vistas y DJ sets en vivo. Más que tomar algo, se trata de disfrutar una ciudad que cobra vida cuando cae el sol.",
+      "en": "Nightfall in Buenos Aires brings its own rhythm—soft lights, carefully crafted drinks, and spaces that invite you to linger. In neighborhoods like Palermo, Chacarita, and Colegiales, a new wave of bars offers unique experiences: from hidden speakeasies behind unmarked doors to rooftop terraces with skyline views and live DJ sets. More than just drinks, it’s about embracing a city that truly awakens after dark."
+    },
+    "imagen": "assets/images/bares.png",
+    "ubicacion": "Palermo / Villa Crespo / Chacarita, Buenos Aires",
+    "categoria": "experiencias",
+    "latitud": -34.58862616073671, 
+    "longitud": -58.42976904429611
+  },
+
+
+  {
+    "titulo": {
+      "es": "Avenida Corrientes",
+      "en": "Corrientes Avenue"
+    },
+    "descripcion": {
+      "es": "La calle que nunca duerme: teatros, luces y pizza en el corazón porteño.",
+      "en": "The street that never sleeps: theaters, lights, and pizza in the heart of Buenos Aires."
+    },
+
+    "detalles": {
+      "es": "La Avenida Corrientes es puro Buenos Aires: teatros con marquesinas encendidas, librerías que cierran de madrugada, cafés con aroma a historia y pizzerías donde la porción se come de pie en la barra. Es el lugar ideal para una noche porteña completa: ver una obra en el San Martín o el Astral, recorrer las vidrieras de las librerías y terminar con una pizza en Güerrin o en alguna otra clásica de la zona. Caminarla de noche, con todas sus luces y su movimiento, es sentir el pulso vivo de la ciudad.\n\n**Cerca:**\nObelisco, Teatro Colón, Plaza de la República",
+      "en": "Corrientes Avenue is pure Buenos Aires: theaters with bright marquees, bookstores that stay open until the early hours, cafés steeped in history, and pizzerias where you eat your slice standing at the counter. It’s the perfect spot for a full porteño night: catch a play at the San Martín or Astral, browse late-night bookshops, and finish with a pizza at Güerrin or another neighborhood classic. Walking it at night, with all its lights and energy, is to feel the city’s heartbeat.\n\n**Nearby:**\nObelisco, Colon Theatre, Plaza de la República"
+    },
+
+    "imagen": "assets/images/corrientes.png",
+    "ubicacion": "Av. Corrientes al 1000, San Nicolás",
+    "categoria": "experiencias",
+    "latitud": -34.6035340903534, 
+    "longitud": -58.37850666626001
+  },
+
+  {
+    'titulo': {
+      'es': 'La Bomba de Tiempo',
+      'en': 'La Bomba de Tiempo',
+    },
+    'descripcion': {
+      'es': 'Percusión en vivo al ritmo del pulso porteño.',
+      'en': 'Live percussion to the beat of Buenos Aires.',
+    },
+    "detalles": {
+      "es": "La Bomba de Tiempo es una de esas experiencias que hay que vivir en Buenos Aires. Todos los lunes, el patio del Ciudad Cultural Konex se llena de energía con su percusión en vivo, donde más de una docena de músicos fusionan ritmos afroamericanos con improvisación dirigida por señas. El público no solo escucha: salta, baila y se deja llevar por un show que nunca es igual al anterior. Ideal para arrancar la semana con pura vibra porteña.\n\n[Sitio web oficial](https://www.labombadetiempo.com/)\n\n[Instagram](https://www.instagram.com/labombadetiempo/)",
+      "en": "La Bomba de Tiempo is one of those must-experience events in Buenos Aires. Every Monday, the courtyard of Ciudad Cultural Konex comes alive with more than a dozen musicians fusing Afro-American rhythms with signal-directed improvisation. The audience doesn’t just listen — they jump, dance, and get carried away by a show that’s never the same twice. Perfect for starting the week with pure porteño vibes.\n\n[Official website](https://www.labombadetiempo.com/)\n\n[Instagram](https://www.instagram.com/labombadetiempo/)"
+    },
+    'imagen': 'assets/images/bomba.png',
+    'ubicacion': 'Sarmiento 3131, Abasto',
+    'categoria': 'experiencias',
+    'latitud': -34.60637519959758,
+    'longitud': -58.4104269162326
+  },
+
+  {
+    'titulo': {
+      'es': 'La Grande',
+      'en': 'La Grande',
+    },
+    'descripcion': {
+      'es': 'Jam de improvisación rítmica dirigida por Santiago Vázquez.',
+      'en': 'Rhythmic improvisation jam led by Santiago Vázquez.',
+    },
+    "detalles": {
+      "es": "La Grande es el plan ideal para arrancar el martes con buena onda y música en vivo. Cada semana ofrecen DJs, jam sessions abiertas para que cualquier músico se sume, y hasta ping pong y metegol para divertirse con amigos. Todo acompañado de una barra con tragos y comida para pasarla genial en un ambiente relajado y lleno de buena vibra.\n\n[**Instagram:**](https://www.instagram.com/lagrande_banda)\n\n**Cerca:**\nPalermo, Chacarita, Plaza Serrano, Plaza Armenia",
+      "en": "La Grande is the perfect plan to kick off your Tuesday with good vibes and live music. Every week they have DJs, open jam sessions where any musician can join, plus ping pong and foosball to have fun with friends. All this comes with a bar serving drinks and food to enjoy a great time in a relaxed and lively atmosphere.\n\n[**Instagram:**](https://www.instagram.com/lagrande_banda)\n\n**Nearby:**\nPalermo, Chacarita, Plaza Serrano, Plaza Armenia"
+    },
+    'imagen': 'assets/images/grande.png',
+    'ubicacion': 'Santos Dumont 4040, Chacarita',
+    'categoria': 'experiencias',
+    'latitud': -34.58746748143318,
+    'longitud': -58.450245054784624
+  },
+
+
+  {
+    "titulo": {
+      "es": "(BA)fter Dark",
+      "en": "(BA)fter Dark"
+    },
+    "descripcion": {
+      "es": "Un panorama vibrante con bares, clubs y restaurantes para vivir la noche porteña como se debe.",
+      "en": "A vibrant scene with bars, clubs, and restaurants to live Buenos Aires nightlife the right way."
+    },
+    "detalles": {
+      "es": "En Buenos Aires, la noche tiene de todo: desde bares tranqui para charlar con amigos, hasta discotecas electrónicas y espacios culturales donde la música no para. Palermo, San Telmo, Recoleta y Chacarita son algunos de los barrios que ofrecen planes para todos los gustos y estilos, haciendo que la noche porteña sea una experiencia que no vas a olvidar.",
+      "en": "In Buenos Aires, the night has it all: from chill bars to hang out with friends, to electronic clubs and cultural spots where the music never stops. Palermo, San Telmo, Recoleta, and Chacarita are some of the neighborhoods with plans for every taste and style, making the porteño night an unforgettable experience."
+    },
+    "imagen": "assets/images/after.png",
+    "ubicacion": "Palermo/Chacarita/San Telmo/Recoleta, Buenos Aires",
+    "categoria": "experiencias",
+    "latitud": -34.6037,
+    "longitud": -58.3816
+  },
+
+
+
+
+]

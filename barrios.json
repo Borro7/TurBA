@@ -1,0 +1,185 @@
+[
+  {
+    "titulo": {
+      "es": "San Telmo",
+      "en": "San Telmo"
+    },
+    "descripcion": {
+      "es": "Barrio histórico con onda bohemia, calles empedradas, arte callejero y mucho para descubrir.",
+      "en": "Historic neighborhood with a bohemian vibe, cobbled streets, street art, and plenty to explore."
+    },
+
+    "detalles": {
+        "es": "San Telmo es de esos barrios que te invitan a caminar sin mirar el reloj. Entre sus calles empedradas vas a encontrar casonas antiguas, murales llenos de color y cafés con mucha onda.\n\nArrancá en el Mercado de San Telmo: además de puestos con productos frescos y antigüedades, vas a encontrar rincones para comer empanadas, choripanes o probar un buen café de especialidad.\n\nSi estás un domingo, no te pierdas la feria de Plaza Dorrego: hay artesanos, música en vivo y parejas bailando tango en la calle.\n\nDate una vuelta por la calle Defensa, que está llena de tiendas vintage y lugares para sacar fotos únicas.\n\nY si te gusta el arte, buscá las galerías y centros culturales que están medio escondidos, pero valen la pena.\n\nEs un plan ideal para una tarde tranquila, donde cada esquina tiene algo para sorprenderte.\n\n**Qué hacer:**\n- Recorrer la feria de Plaza Dorrego un domingo → https://maps.app.goo.gl/Li6HMLwfdF1yA6vS8\n- Caminar por la calle Defensa y descubrir tiendas vintage → https://maps.app.goo.gl/tz7Jd2fvyosBSjdc6\n- Comer en los puestos del Mercado de San Telmo → https://mercadodesantelmo.com/\n- Sacar fotos de murales y fachadas antiguas → https://www.google.com/maps/d/viewer?mid=1sF0YWGjKfF9fgGk3-6r2A-m7t_c&hl=es\n- Visitar el Museo de Arte Moderno de Buenos Aires (MAMBA) → https://museomoderno.org/\n- Ver un espectáculo de tango en el Centro Cultural Torquato Tasso → https://www.facebook.com/torquatotasso/",
+    
+        "en": "San Telmo is one of those neighborhoods that makes you want to wander with no rush. Along its cobblestone streets you’ll find old mansions, colorful murals, and laid-back cafés.\n\nStart at the San Telmo Market: besides fresh produce and antiques, you’ll find little spots to grab empanadas, choripanes, or enjoy a great specialty coffee.\n\nIf you’re here on a Sunday, don’t miss the Plaza Dorrego fair—filled with artisans, live music, and couples dancing tango right on the street.\n\nWalk along Defensa Street, packed with vintage shops and great photo opportunities.\n\nAnd if you’re into art, keep an eye out for the hidden galleries and cultural centers—you’ll be glad you found them.\n\nIt’s the perfect plan for a chilled-out afternoon, where every corner has a surprise waiting for you.\n\n**Things to do:**\n- Browse the Plaza Dorrego fair on a Sunday → https://maps.app.goo.gl/Li6HMLwfdF1yA6vS8\n- Stroll along Defensa Street and explore vintage shops → https://maps.app.goo.gl/tz7Jd2fvyosBSjdc6\n- Eat at the food stalls inside the San Telmo Market → https://mercadodesantelmo.com/\n- Take photos of murals and historic façades → https://www.google.com/maps/d/viewer?mid=1sF0YWGjKfF9fgGk3-6r2A-m7t_c&hl=es\n- Visit the Buenos Aires Museum of Modern Art (MAMBA) → https://museomoderno.org/\n- Watch a live tango show at the Torquato Tasso Cultural Center → https://www.facebook.com/torquatotasso/"
+    },
+
+
+    "imagen": "assets/images/santel.png",
+    "ubicacion": "San Telmo, Ciudad Autónoma de Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.6178273441141,
+    "longitud": -58.372489720065644
+  },
+
+
+  {
+    "titulo": {
+      "es": "La Boca",
+      "en": "La Boca"
+    },
+    "descripcion": {
+      "es": "Barrio colorido y cultural, famoso por El Caminito, el arte callejero y la pasión por el fútbol.",
+      "en": "Colorful and cultural neighborhood, famous for Caminito, street art, and football passion."
+    },
+    
+    "detalles": {
+      "es": "La Boca es un barrio que respira identidad y color. Sus casas de chapa pintadas en tonos vibrantes hacen que cada cuadra sea una postal única. El famoso Caminito es ideal para caminar sin apuro, ver artistas callejeros, músicos y bailarines de tango, y llevarte fotos llenas de vida.\n\nA pocas cuadras está La Bombonera, estadio del Club Boca Juniors y un ícono para los fanáticos del fútbol. Además, en la zona encontrarás talleres de arte y espacios culturales como la Fundación Proa, con exposiciones y una terraza con vista al Riachuelo.\n\nSi te da hambre, hay parrillas, bodegones y cafés donde probar desde un choripán callejero hasta un buen asado. Es un barrio auténtico, popular y lleno de energía, perfecto para sumergirte en una Buenos Aires que late fuerte.\n\n**Qué hacer**\n- Caminar por El Caminito y disfrutar del arte callejero → https://maps.app.goo.gl/j7d7ZyXy8zHHj6rGA\n- Visitar La Bombonera (estadio de Boca Juniors) → https://bocajuniors.com.ar/el-club/la-bombonera\n- Recorrer la Fundación Proa y su terraza → https://proa.org/\n- Sacar fotos de las fachadas coloridas → https://maps.app.goo.gl/j7d7ZyXy8zHHj6rGA\n- Probar un choripán o asado en una parrilla local → https://maps.app.goo.gl/pG6vHhix5F8eXy6A8\n- Caminar por la costanera y ver el Puente Transbordador → https://maps.app.goo.gl/nwL2r3woi1G3Kq5g8",
+    
+     "en": "La Boca is a neighborhood bursting with identity and color. Its brightly painted tin houses make every street feel like a unique postcard. The famous Caminito is perfect for a slow stroll, watching street artists, musicians, and tango dancers, and snapping vibrant photos.\n\nJust a few blocks away is La Bombonera, home to Boca Juniors and a must-see for football fans. You’ll also find artist workshops and cultural spaces like Fundación Proa, which features exhibitions and a rooftop terrace overlooking the Riachuelo.\n\nWhen hunger strikes, there are grills, traditional bodegones, and cafés where you can try anything from a street choripán to a hearty Argentine asado. It’s an authentic, lively neighborhood—perfect for diving into the raw heart of Buenos Aires.\n\n**Things to do**\n- Walk through El Caminito and enjoy street art → https://maps.app.goo.gl/j7d7ZyXy8zHHj6rGA\n- Visit La Bombonera (Boca Juniors stadium) → https://bocajuniors.com.ar/el-club/la-bombonera\n- Explore Fundación Proa and its rooftop → https://proa.org/\n- Take photos of the colorful façades → https://maps.app.goo.gl/j7d7ZyXy8zHHj6rGA\n- Try a choripán or asado at a local parrilla → https://maps.app.goo.gl/pG6vHhix5F8eXy6A8\n- Walk along the waterfront and see the Puente Transbordador → https://maps.app.goo.gl/nwL2r3woi1G3Kq5g8"
+    },
+  
+    "imagen": "assets/images/laboca.png",
+    "ubicacion": "La Boca, Ciudad Autónoma de Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.63040521276177,
+    "longitud": -58.363371400218654
+  },
+  {
+    "titulo": {
+      "es": "Palermo",
+      "en": "Palermo"
+    },
+    "descripcion": {
+      "es": "Barrio moderno y vibrante, conocido por sus parques, diseño y vida nocturna.",
+      "en": "Modern and vibrant neighborhood, known for its parks, design, and nightlife."
+    },
+    
+    "detalles": {
+      "es": "Palermo es enorme y tiene de todo. Si te gusta lo verde, los Bosques de Palermo son un clásico: lagos, senderos arbolados, el Rosedal lleno de rosas en flor, y espacios perfectos para caminar, andar en bici o hacer un picnic.\n\nPara un plan más urbano, Palermo Soho y Palermo Hollywood están llenos de tiendas de diseño independiente, murales y arte callejero, cafeterías de especialidad, bares y restaurantes para todos los gustos. De día, podés pasear entre ferias, mercados y librerías; de noche, la movida se enciende con terrazas, cervecerías y coctelerías.\n\nEs un barrio para recorrer sin apuro, mezclar naturaleza y ciudad, probar sabores nuevos y descubrir rincones con mucha onda porteña.\n\n**Qué hacer:**\n- Pasear por el Rosedal y los Bosques de Palermo → https://maps.app.goo.gl/P2o7ZzJpn7c6HfRe6\n- Andar en bici o caminar alrededor de los lagos → https://maps.app.goo.gl/FpQ8hGBfbRGxLckC6\n- Descubrir tiendas y arte callejero en Palermo Soho → https://maps.app.goo.gl/8jzM4JQeL5icRVxU6\n- Tomar un café en una cafetería de especialidad → https://maps.app.goo.gl/kFbK3MtRCXKz6brw5\n- Disfrutar de la noche en bares y terrazas de Palermo Hollywood → https://maps.app.goo.gl/W3P1K1pXREiwo5YcA\n- Visitar el Jardín Japonés → https://maps.app.goo.gl/NFjzTtVzayGWwNeU9",
+    
+     "en": "Palermo is huge and has a bit of everything. If you’re into green spaces, the Bosques de Palermo are a classic—lakes, tree-lined paths, the Rosedal full of blooming roses, and perfect spots for walking, biking, or having a picnic.\n\nFor a more urban vibe, Palermo Soho and Palermo Hollywood are packed with indie design shops, murals and street art, specialty coffee houses, bars, and restaurants for every taste. By day, you can wander through fairs, markets, and bookstores; by night, the area comes alive with rooftop bars, craft breweries, and cocktail lounges.\n\nIt’s a neighborhood to explore at your own pace, mixing nature and city life, tasting new flavors, and discovering corners full of Buenos Aires style.\n\n**Things to do**\n- Stroll through the Rosedal and Bosques de Palermo → https://maps.app.goo.gl/P2o7ZzJpn7c6HfRe6\n- Bike or walk around the lakes → https://maps.app.goo.gl/FpQ8hGBfbRGxLckC6\n- Explore shops and street art in Palermo Soho → https://maps.app.goo.gl/8jzM4JQeL5icRVxU6\n- Have a coffee at a specialty café → https://maps.app.goo.gl/kFbK3MtRCXKz6brw5\n- Enjoy nightlife in Palermo Hollywood’s bars and rooftops → https://maps.app.goo.gl/W3P1K1pXREiwo5YcA\n- Visit the Japanese Garden → https://maps.app.goo.gl/NFjzTtVzayGWwNeU9"
+    },
+
+    "imagen": "assets/images/palermo.png",
+    "ubicacion": "Palermo, Ciudad Autónoma de Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.57898808719545,
+    "longitud": -58.42692466656765
+  },
+
+  {
+    "titulo": {
+      "es": "Recoleta",
+      "en": "Recoleta"
+    },
+    "descripcion": {
+      "es": "Barrio elegante y tradicional, famoso por su arquitectura francesa y espacios culturales.",
+      "en": "Elegant and traditional neighborhood, famous for its French architecture and cultural spaces.",
+    },
+    
+    "detalles": {
+      "es": "Recoleta mezcla historia, arte y una buena cuota de elegancia. Caminando por sus calles vas a ver edificios que parecen salidos de París, plazas tranquilas con sombra y cultura por todos lados.\n\nEl Cementerio de la Recoleta es uno de los lugares más visitados, con mausoleos impresionantes y personajes históricos que marcaron la historia argentina.\n\nTambién podés recorrer museos como el Museo Nacional de Bellas Artes, centros culturales y cafés clásicos donde sentarte a descansar, tomar un café y observar el paso de la gente.\n\nEs ideal para una tarde relajada, donde cada rincón tiene detalles que vale la pena descubrir y disfrutar con calma.\n\n**Qué hacer**\n- Visitar el Cementerio de la Recoleta → https://maps.app.goo.gl/yoV7QUkMyZJxAtJe9\n- Recorrer el Museo Nacional de Bellas Artes → https://www.mnba.gob.ar/\n- Pasear por la Plaza Francia y su feria artesanal → https://maps.app.goo.gl/wahccWizn6LcXYmeA\n- Tomar un café en alguno de los bares clásicos del barrio → https://maps.app.goo.gl/LEzTtz7dF2o4LF8r9\n- Visitar el Centro Cultural Recoleta → https://centroculturalrecoleta.org/\n- Caminar por la avenida Alvear y ver tiendas de lujo y arquitectura elegante → https://maps.app.goo.gl/4JqU9mLpnP9a3Lbw9",
+    
+      "en": "Recoleta blends history, art, and a good dose of elegance. Walking its streets feels a bit like being in Paris — leafy plazas, European-style buildings, and culture at every turn.\n\nThe Recoleta Cemetery is one of the top spots, with stunning mausoleums and historic figures who shaped Argentina’s past.\n\nYou can also visit museums like the National Museum of Fine Arts, cultural centers, and classic cafés where you can sit back, have a coffee, and watch the world go by.\n\nIt’s perfect for a relaxed afternoon, where every corner holds details worth discovering and enjoying slowly.\n\n**Things to do:**\n- Visit the Recoleta Cemetery → https://maps.app.goo.gl/yoV7QUkMyZJxAtJe9\n- Explore the National Museum of Fine Arts → https://www.mnba.gob.ar/\n- Stroll through Plaza Francia and its artisan market → https://maps.app.goo.gl/wahccWizn6LcXYmeA\n- Have coffee at one of the neighborhood’s classic cafés → https://maps.app.goo.gl/LEzTtz7dF2o4LF8r9\n- Visit the Recoleta Cultural Center → https://centroculturalrecoleta.org/\n- Walk along Avenida Alvear to see luxury shops and elegant architecture → https://maps.app.goo.gl/4JqU9mLpnP9a3Lbw9"
+    },
+
+    "imagen": "assets/images/recol.png",
+    "ubicacion": "Recoleta, Ciudad Autónoma de Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.5883,
+    "longitud": -58.3933
+  },
+
+  {
+    "titulo": {
+      "es": "Puerto Madero",
+      "en": "Puerto Madero"
+    },
+    "descripcion": {
+      "es": "El barrio más moderno y sofisticado de Buenos Aires, a orillas del Río de la Plata.",
+      "en": "The most modern and sophisticated neighborhood in Buenos Aires, along the Río de la Plata.",
+    },
+    
+    "detalles": {
+      "es": "Puerto Madero es donde la ciudad se vuelve futurista. Con sus rascacielos vidriados, antiguos docks convertidos en restaurantes y bares de primer nivel, y un paseo costero ideal para caminar o andar en bici, es el lugar perfecto para combinar relax y estilo.\n\nPodés cruzar el icónico Puente de la Mujer, visitar la Fragata Sarmiento o simplemente disfrutar el atardecer junto al río.\n\nSi querés cambiar cemento por naturaleza, la Reserva Ecológica está ahí nomás, ideal para una caminata o avistaje de aves.\n\n**Qué hacer:**\n- Cruzar el Puente de la Mujer → https://maps.app.goo.gl/wDgr5hYoA6VGvBRm9\n- Visitar la Fragata Sarmiento → https://www.histarmar.com.ar/FragataSarmiento.htm\n- Pasear por la Reserva Ecológica → https://maps.app.goo.gl/fcVsBAcK3eDKzGbL6\n- Comer en los restaurantes sobre los docks → https://maps.app.goo.gl/1o5vWfTkUra9zFLz6\n- Caminar o andar en bici por la Costanera Sur → https://maps.app.goo.gl/TP6pRFT9WqWxk5Ej9\n- Disfrutar el atardecer con vista al río → https://maps.app.goo.gl/XLNmFD2TXjMEK5qg6",
+    
+      "en": "Puerto Madero is where the city feels futuristic. With its glass skyscrapers, old docks turned into top-notch restaurants and bars, and a riverside promenade perfect for walking or biking, it’s the ideal spot to mix relaxation with style.\n\nYou can cross the iconic Woman’s Bridge, visit the historic Sarmiento Frigate, or simply enjoy the sunset by the river.\n\nIf you want a nature break, the Ecological Reserve is right there, perfect for walking or bird watching.\n\n**Things to do:**\n- Cross the Woman’s Bridge → https://maps.app.goo.gl/wDgr5hYoA6VGvBRm9\n- Visit the Sarmiento Frigate → https://www.histarmar.com.ar/FragataSarmiento.htm\n- Walk through the Ecological Reserve → https://maps.app.goo.gl/fcVsBAcK3eDKzGbL6\n- Dine at the restaurants on the docks → https://maps.app.goo.gl/1o5vWfTkUra9zFLz6\n- Bike or walk along Costanera Sur → https://maps.app.goo.gl/TP6pRFT9WqWxk5Ej9\n- Enjoy the sunset by the river → https://maps.app.goo.gl/XLNmFD2TXjMEK5qg6"
+    },
+
+    "imagen": "assets/images/pmadero.png",
+    "ubicacion": "Puerto Madero, Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.608906,
+    "longitud": -58.362328
+  },
+
+  {
+    "titulo": {
+      "es": "Puente de la Mujer",
+      "en": "Woman's Bridge"
+    },
+    "descripcion": {
+      "es": "Símbolo de la modernidad en Buenos Aires, une arte, arquitectura y paseo urbano.",
+      "en": "A symbol of modern Buenos Aires, blending art, architecture, and urban strolling."
+    },
+    "detalles": {
+      "es": "Diseñado por Santiago Calatrava e inaugurado en 2001, el Puente de la Mujer representa una pareja bailando tango. Es uno de los íconos visuales de Puerto Madero y un punto clave en cualquier recorrido por la zona. Rodeado de restaurantes y con vistas al río, es ideal para pasear al atardecer.",
+      "en": "Designed by Santiago Calatrava and inaugurated in 2001, the Woman's Bridge represents a couple dancing tango. It's a visual icon of Puerto Madero and a key spot on any walk through the area. Surrounded by restaurants and with views of the river, it's perfect for sunset strolls."
+    },
+    "imagen": "assets/images/pmujer.png",
+    "ubicacion": "Puerto Madero, Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.60765327076849,
+    "longitud": -58.36518268422293
+  },
+
+  {
+    "titulo": {
+      "es": "Villa Crespo",
+      "en": "Villa Crespo"
+    },
+    "descripcion": {
+      "es": "Barrio con onda local, murales, librerías escondidas y mucha movida cultural.",
+      "en": "A local vibe neighborhood with street art, hidden bookshops, and a strong cultural pulse."
+    },
+    
+    "detalles": {
+    "es": "Villa Crespo es el secreto mejor guardado de Buenos Aires. Menos turístico que Palermo pero igual de vibrante, tiene calles llenas de murales, tiendas de diseño independiente, bares con personalidad y cafés donde se respira barrio.\n\nEs ideal para caminar sin rumbo y encontrar joyitas como la Calle Thames, la zona de outlets y tiendas de moda, o alguna milonga improvisada donde la música y el baile aparecen de sorpresa.\n\nSi querés sentirte un local más, este es tu lugar para descubrir la esencia porteña auténtica y relajada.\n\n**Qué hacer:**\n- Pasear por la Calle Thames y sus murales → https://maps.app.goo.gl/uwKUS3zpMZ6DDHzB8\n- Explorar los outlets y tiendas de diseño independiente → https://maps.app.goo.gl/RAoXdqMh4xry9b3j8\n- Visitar alguna milonga o evento de tango improvisado → https://www.tangoinfo.net/milonga.php?Milonga=Villa_Crespo\n- Tomar un café en bares con onda local → https://maps.app.goo.gl/xCYbR5kQxvG2JMeR6\n- Disfrutar de la calle Serrano y sus opciones gastronómicas → https://maps.app.goo.gl/JspAzX78J5fPtEbf7\n- Descubrir murales y arte callejero por todo el barrio → https://www.streetartutopia.com/city/buenos-aires/villa-crespo/",
+    
+    "en": "Villa Crespo is one of Buenos Aires' best-kept secrets. Less touristy than Palermo but just as vibrant, it’s full of street art, indie design shops, quirky bars, and cafés with a real neighborhood feel.\n\nIt’s perfect for wandering without a plan and discovering gems like Thames Street, outlet stores, or a pop-up tango milonga where music and dance surprise you.\n\nIf you want to feel like a local, this is the spot to dive into authentic, laid-back porteño life.\n\n**Things to do:**\n- Stroll along Thames Street and admire the murals → https://maps.app.goo.gl/uwKUS3zpMZ6DDHzB8\n- Explore outlet stores and indie design shops → https://maps.app.goo.gl/RAoXdqMh4xry9b3j8\n- Visit a milonga or pop-up tango event → https://www.tangoinfo.net/milonga.php?Milonga=Villa_Crespo\n- Have coffee at local cafés with good vibes → https://maps.app.goo.gl/xCYbR5kQxvG2JMeR6\n- Enjoy the food scene on Serrano Street → https://maps.app.goo.gl/JspAzX78J5fPtEbf7\n- Discover murals and street art around the neighborhood → https://www.streetartutopia.com/city/buenos-aires/villa-crespo/"
+    },
+
+    "imagen": "assets/images/vcrespo.png",
+    "ubicacion": "Villa Crespo, Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.595404,
+    "longitud": -58.437984
+  },
+
+  {
+    "titulo": {
+      "es": "Chacarita",
+      "en": "Chacarita"
+    },
+    "descripcion": {
+      "es": "Un mix de arte urbano, cafés de autor y tranquilidad, con historia y verde.",
+      "en": "A mix of street art, specialty cafés and calm vibes, packed with history and greenery."
+    },
+    "detalles": {
+      "es": "Chacarita es un barrio tranquilo que se puso de moda sin perder su esencia. Es famoso por el Cementerio de la Chacarita, donde descansan grandes figuras del tango como Carlos Gardel.\n\nPero Chacarita también tiene cafés minimalistas y modernos, estudios de arte y bares con mucha onda que le dan vida a la zona.\n\nSu ambiente relajado es ideal para caminar y descubrir rincones con identidad propia, lejos del circuito turístico habitual.\n\nEstá Cerca Colegiales y Villa Crespo, perfecto para combinar y explorar distintas caras de Buenos Aires.\n\n**Qué hacer:**\n- Visitar el Cementerio de la Chacarita → https://maps.app.goo.gl/Yd3M5Q4KsXGMPyPL7\n- Tomar un café en alguno de los bares minimalistas → https://maps.app.goo.gl/6nyFn5eA3pHtNcKc8\n- Explorar estudios y galerías de arte locales → https://maps.app.goo.gl/w6X9K1UyYtRwvHRm9\n- Salir de noche a bares con ambiente relajado → https://maps.app.goo.gl/UNjBcZvV6Pku5xKdA\n- Caminar por las calles tranquilas y descubrir murales → https://www.streetartutopia.com/city/buenos-aires/chacarita/\n- Combinar la visita con Colegiales y Villa Crespo, barrios cercanos y vibrantes → https://maps.app.goo.gl/6DWKyVjkjLXLkgHq6",
+    
+      "en": "Chacarita is a laid-back neighborhood that’s quietly become trendy without losing its soul. It’s famous for the Chacarita Cemetery, resting place of tango legends like Carlos Gardel.\n\nBut Chacarita also offers minimalist and modern cafés, art studios, and bars with great vibes that bring the area to life.\n\nIts relaxed atmosphere is perfect for walking around and discovering unique corners far from the usual tourist path.\n\nLocated close to Colegiales and Villa Crespo, it’s ideal to combine visits and explore different sides of Buenos Aires.\n\n**Things to do:**\n- Visit the Chacarita Cemetery → https://maps.app.goo.gl/Yd3M5Q4KsXGMPyPL7\n- Grab coffee at minimalist cafés → https://maps.app.goo.gl/6nyFn5eA3pHtNcKc8\n- Explore local art studios and galleries → https://maps.app.goo.gl/w6X9K1UyYtRwvHRm9\n- Enjoy the nightlife at laid-back bars → https://maps.app.goo.gl/UNjBcZvV6Pku5xKdA\n- Walk the quiet streets and discover murals → https://www.streetartutopia.com/city/buenos-aires/chacarita/\n- Combine your visit with nearby Colegiales and Villa Crespo → https://maps.app.goo.gl/6DWKyVjkjLXLkgHq6"
+    },
+    
+    "imagen": "assets/images/chaca.png",
+    "ubicacion": "Chacarita, Buenos Aires",
+    "categoria": "barrios",
+    "latitud": -34.591775,
+    "longitud": -58.453462
+  }
+
+
+
+]
