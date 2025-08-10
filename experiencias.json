@@ -161,11 +161,32 @@
     "categoria": "experiencias",
     "latitud": -34.6037,
     "longitud": -58.3816
-  }
+  },
+
+  {
+  "titulo": {
+    "es": "Sabores Argentinos",
+    "en": "Argentine Flavors"
+  },
+  "descripcion": {
+    "es": "Un recorrido por las delicias clásicas de la gastronomía argentina, desde la milanesa hasta los alfajores.",
+    "en": "A journey through classic Argentine cuisine delights, from milanesa to alfajores."
+  },
+  "detalles": {
+    "es": "Descubrí los sabores más emblemáticos de Argentina: la crocante milanesa, la irresistible fugazzeta, la típica fainá, el dulce de leche que endulza cada postre, las facturas tradicionales y los alfajores que son un símbolo nacional. Cada bocado es una experiencia única que refleja la cultura y la historia porteña.",
+    "en": "Discover Argentina's most emblematic flavors: crispy milanesa, irresistible fugazzeta, typical fainá, dulce de leche sweetening every dessert, traditional facturas, and alfajores that are a national symbol. Every bite is a unique experience reflecting porteño culture and history."
+  },
+  "imagen": "assets/images/sabores_argentinos.png",
+  "ubicacion": "Buenos Aires, Argentina",
+  "categoria": "comida",
+  "latitud": -34.6037,
+  "longitud": -58.3816
+}
 
 
 
 
 ]
+
 
 
