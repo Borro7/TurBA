@@ -34,7 +34,7 @@
       "es": "Si querés probar cortes típicos argentinos como el bife de chorizo, el vacío y la entraña bien hechos, no busques solo los lugares más caros o turísticos. Los verdaderos secretos están en esas parrillas donde van los locales, donde el sabor y la tradición se sienten en cada bocado.\n\nNo te pierdas la provoleta, ese queso provolone fundido con especias que es un clásico infaltable para acompañar la carne.\n\nUn asado así no lo vas a encontrar en otro lado: es una experiencia auténtica, llena de sabor, pasión y tradición porteña que te va a encantar en cada bocado.\n\nAlgunas parrillas son:\n- **El boliche de Nico**\n- **La parrillita de Colegiales**\n- **Lo de Bebe**\n\nPero hay muchas más esperando a que las descubras.",
       "en": "If you want to try classic Argentine cuts like bife de chorizo, vacío, and entraña done right, don’t just go for the priciest or most touristy spots. The real gems are those grills locals flock to, where flavor and tradition come through in every bite.\n\nDon’t miss the provoleta, that melted provolone cheese with spices—a must-have classic to go with your meat.\n\nYou won’t find an asado like this anywhere else: it’s a real-deal, authentic experience packed with flavor, passion, and porteño tradition that you’ll love in every bite.\n\nSome grills to check out are:\n- **El boliche de Nico**\n- **La parrillita de Colegiales**\n- **Lo de Bebe**\n\nBut there are many more waiting for you to discover."
     },
-    "imagen": "assets/images/asado.png",
+    "imagen": "https://github.com/Borro7/TurBA/raw/d159bd596690168aad5967bb7b451eceee811062/images/asado-min.png",
     "ubicacion": "Varios puntos en Buenos Aires",
     "categoria": "comida",
     "latitud": -34.6037,
@@ -124,4 +124,5 @@
 
 
 ]
+
 
