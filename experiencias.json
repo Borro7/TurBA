@@ -99,6 +99,25 @@
     "longitud": -58.42976904429611
   },
 
+  {
+  "titulo": {
+    "es": "Ferias de Artesanos en Buenos Aires",
+    "en": "Artisan Fairs in Buenos Aires"
+  },
+  "descripcion": {
+    "es": "Descubrí la creatividad y el talento local en las ferias de artesanos que se realizan los fines de semana en distintos barrios de la ciudad.",
+    "en": "Discover local creativity and talent at artisan fairs held on weekends across the city’s neighborhoods."
+  },
+  "detalles": {
+    "es": "Buenos Aires ofrece ferias de artesanos en toda la ciudad, con joyería, accesorios, diseño y arte local. Entre los lugares más destacados se encuentran Plaza Serrano y Plaza Armenia en Palermo, la Calle Defensa en San Telmo y Plaza Francia en Recoleta. Cada feria refleja la diversidad y creatividad de los artistas porteños y ofrece un ambiente único y lleno de energía.",
+    "en": "Buenos Aires hosts artisan fairs across the city, featuring jewelry, accessories, design items, and local art. Some of the most notable locations include Plaza Serrano and Plaza Armenia in Palermo, Calle Defensa in San Telmo, and Plaza Francia in Recoleta. Each fair reflects the diversity and creativity of local artists and offers a unique atmosphere full of energy."
+  },
+  "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/ferias_artesanos.png",
+  "ubicacion": "Buenos Aires",
+  "categoria": "experiencias",
+  "latitud": -34.6075,
+  "longitud": -58.445
+},
 
   {
     "titulo": {
@@ -122,6 +141,27 @@
     "longitud": -58.37850666626001
   },
 
+{
+  "titulo": {
+    "es": "Arte Callejero en Buenos Aires",
+    "en": "Street Art in Buenos Aires"
+  },
+  "descripcion": {
+    "es": "Murales, graffiti y pequeñas intervenciones llenan cada rincón de la ciudad, mostrando la creatividad y la cultura de Buenos Aires.",
+    "en": "Murals, graffiti, and small interventions fill every corner of the city, showcasing Buenos Aires’ creativity and culture."
+  },
+  "detalles": {
+    "es": "Desde grandes murales hasta pequeñas expresiones urbanas, el arte callejero está presente en toda la ciudad. Palermo Soho destaca por su estilo joven y trendy, con pasajes pintorescos como Santa Rosa, Russel y Soria que ofrecen ejemplos únicos de murales y graffiti, pero cada barrio guarda sorpresas que revelan la identidad y energía de Buenos Aires.",
+    "en": "From large murals to small urban expressions, street art can be found throughout the city. Palermo Soho stands out for its young and trendy vibe, with charming passages such as Santa Rosa, Russel, and Soria offering unique examples of murals and graffiti, but every neighborhood holds surprises that reveal Buenos Aires’ identity and energy."
+  },
+  "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/street_art.png",
+  "ubicacion": "Buenos Aires",
+  "categoria": "experiencias",
+  "latitud": -34.6083,
+  "longitud": -58.3712
+},
+
+  
   {
     "titulo": {
       "es": "La Bomba de Tiempo",
@@ -204,6 +244,7 @@
 }
 
 ]
+
 
 
 
