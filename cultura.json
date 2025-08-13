@@ -12,7 +12,7 @@
       "es": "El Palacio Libertad, anteriormente conocido como Centro Cultural Kirchner (CCK), fue inaugurado en 1928 como la sede del Correo Central de Buenos Aires. Tras una extensa restauración, se transformó en uno de los centros culturales más importantes de América Latina. Con más de 100.000 m² distribuidos en nueve pisos, alberga una variada programación artística que incluye conciertos, exposiciones, teatro, danza, cine y actividades para toda la familia. Además, su arquitectura de estilo Beaux-Arts es un atractivo en sí misma.\n\n[Sitio web oficial](https://palaciolibertad.gob.ar/events/visitas-guiadas-al-palacio-libertad/)\n\n**Cerca:**\nObelisco, Casa Rosada, Teatro Colón, Plaza de Mayo",
       "en": "The Palacio Libertad, formerly known as the Kirchner Cultural Center (CCK), was inaugurated in 1928 as the headquarters of the Central Post Office of Buenos Aires. After extensive restoration, it became one of Latin America’s most important cultural centers. With over 100,000 m² spread across nine floors, it hosts a diverse artistic program including concerts, exhibitions, theater, dance, cinema, and family activities. Its Beaux-Arts architecture is also a major attraction.\n\n[Official website](https://palaciolibertad.gob.ar/events/visitas-guiadas-al-palacio-libertad/)\n\n**Nearby:**\nObelisco, Casa Rosada, Teatro Colón, Plaza de Mayo"
     },
-    "imagen": "assets/images/cck.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/cck.png",
     "ubicacion": "Sarmiento 151, San Nicolás",
     "categoria": "cultura",
     "latitud": -34.60312297640711, 
@@ -32,7 +32,7 @@
       "en": "MAMBA, right in the heart of San Telmo, is the perfect spot for fans of modern and contemporary art. It has permanent collections with works by Argentine and international artists, and there are always temporary exhibitions featuring fresh and unique projects. It’s a cool place to check out the vibrant and new side of Buenos Aires art, all in a relaxed and friendly atmosphere.\n\n[Official website](https://www.museomoderno.org/en)\n\n**Nearby:**\nPlaza Dorrego, San Telmo Market, National Historical Museum"
     },
 
-    "imagen": "assets/images/mamba.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/mamba.png",
     "ubicacion": "Av. San Juan 350, San Telmo",
     "categoria": "cultura",
     "latitud": -34.62176976054999,
@@ -52,7 +52,7 @@
       "es": "El MALBA es uno de los museos más destacados de Buenos Aires para los amantes del arte latinoamericano. Cuenta con una colección privada súper completa y siempre está renovando con exposiciones temporales que muestran lo mejor de artistas contemporáneos de la región. Es un lugar ideal para empaparte de cultura y descubrir obras que te van a sorprender, todo en un espacio moderno y luminoso.\n\n[Sitio web oficial](https://www.malba.org.ar/)\n\n[Instagram](https://www.instagram.com/museomalba/)\n\n**Cerca:**\nBosques de Palermo, Jardín Japonés, Planetario Galileo Galilei",
       "en": "MALBA is one of Buenos Aires’ top spots for fans of Latin American art. It has an impressive private collection and constantly updates with temporary exhibitions featuring the best contemporary artists from the region. It’s the perfect place to soak up culture and discover amazing works, all in a modern, bright space.\n\n[Official website](https://www.malba.org.ar/en/)\n\n[Instagram](https://www.instagram.com/museomalba/)\n\n**Nearby:**\nBosques de Palermo, Japanese Garden, Galileo Galilei Planetarium"
     },
-    "imagen": "assets/images/malba.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/malba.png",
     "ubicacion": "Av. Figueroa Alcorta 3415, Palermo",
     "categoria": "cultura",
     "latitud": -34.576756716575666,
@@ -71,7 +71,7 @@
       "es": "El Museo Xul Solar es un lugar único para conocer la obra y la creatividad de uno de los artistas más originales de Argentina. Allí vas a encontrar pinturas, objetos y documentos que muestran su universo lleno de símbolos y misterio. Un espacio ideal para descubrir algo distinto y sumergirte en la mente de Xul Solar.\n\n[Sitio web oficial](https://xulsolar.org.ar/)\n\n[Instagram](https://www.instagram.com/museoxulsolar/)\n\n**Cerca:**\nPalermo, Jardín Botánico",
       "en": "The Xul Solar Museum is a unique spot to explore the work and creativity of one of Argentina’s most original artists. You’ll find paintings, objects, and documents that reveal his universe full of symbols and mystery. It’s a great place to discover something different and dive into Xul Solar’s fascinating mind.\n\n[Official website](https://www.xulsolar.org.ar/index-e.html)\n\n[Instagram](https://www.instagram.com/museoxulsolar/)\n\n**Nearby:**\nPalermo, Botanical Garden"
     },
-    "imagen": "assets/images/xulso.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/xulso.png",
     "ubicacion": "Agüero 826, Recoleta",
     "categoria": "cultura",
     "latitud": -34.594552587871966,
@@ -90,7 +90,7 @@
       "es": "El Centro Cultural Recoleta es uno de los espacios más dinámicos y creativos de Buenos Aires. Con una programación variada que incluye exposiciones, teatro, música, talleres y ferias, siempre hay algo nuevo para descubrir. Además, su arquitectura histórica y sus patios son perfectos para pasar un rato tranquilo y disfrutar del arte en un ambiente relajado y con onda porteña.\n\n[Sitio web oficial](https://www.centroculturalrecoleta.org/)\n\n[Instagram](https://www.instagram.com/centroculturalrecoleta/)\n\n**Cerca:**\nCementerio de la Recoleta, Museo Nacional de Bellas Artes",
       "en": "The Recoleta Cultural Center is one of Buenos Aires’ most dynamic and creative spaces. With a varied program that includes exhibitions, theater, music, workshops, and fairs, there’s always something new to discover. Its historic architecture and beautiful courtyards make it a perfect place to relax and enjoy art in a laid-back atmosphere with true porteño vibe.\n\n[Official website](https://www.centroculturalrecoleta.org/)\n\n[Instagram](https://www.instagram.com/centroculturalrecoleta/)\n\n**Nearby:**\nRecoleta Cemetery, National Museum of Fine Arts"
     },
-    "imagen": "assets/images/crecoleta.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/crecoleta.png",
     "ubicacion": "Junín 1930, Recoleta",
     "categoria": "cultura",
     "latitud": -34.586139013865285,
@@ -109,7 +109,7 @@
       "es": "La Usina del Arte, ubicada en una antigua central eléctrica renovada, es un espacio cultural vibrante que ofrece una programación súper variada con conciertos, exposiciones, talleres y mucho más. Es un lugar ideal para disfrutar de la cultura porteña en un edificio con mucha historia y un ambiente lleno de energía.\n\n[Instagram](https://www.instagram.com/usinadelarte/)\n\n**Cerca:**\nPuerto Madero, Caminito, Museo de Bellas Artes de Buenos Aires",
       "en": "La Usina del Arte, located in a renovated former power plant, is a lively cultural space offering a wide range of programming including concerts, exhibitions, workshops, and more. It’s a great spot to enjoy porteño culture in a historic building with lots of energy.\n\n[Isntagram](https://www.instagram.com/usinadelarte/)\n\n**Nearby:**\nPuerto Madero, Caminito, Buenos Aires Museum of Fine Arts"
     },
-    "imagen": "assets/images/usina.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/usina.png",
     "ubicacion": "Caffarena 1, La Boca",
     "categoria": "cultura",
     "latitud": -34.628438177248945,
@@ -128,7 +128,7 @@
       "es": "El Museo Subterráneo de la Casa Rosada está ubicado en las antiguas bóvedas que formaban parte de la Antigua Aduana de Buenos Aires. Estas bóvedas subterráneas, que originalmente se usaban para guardar mercancías y controlar el comercio en el puerto, hoy funcionan como un espacio museográfico único donde podés conocer una parte oculta e histórica de la ciudad. Es un recorrido fascinante que mezcla la historia política con la historia del comercio y el desarrollo porteño.\n\n[Sitio web oficial](https://www.argentina.gob.ar/secretariageneral/museo-casa-rosada)\n\n[Instagram](https://www.instagram.com/museocasarosada/)\n\n**Cerca:**\nPlaza de Mayo, Catedral Metropolitana, Puerto Madero",
       "en": "The Casa Rosada Underground Museum is located in the old vaults that were part of Buenos Aires’ Former Customs House. These underground vaults, originally used to store goods and control trade at the port, now serve as a unique museum space where you can discover a hidden and historic part of the city. It’s a fascinating tour that blends political history with the story of commerce and Buenos Aires’ development.\n\n[Official website](https://www.argentina.gob.ar/secretariageneral/museo-casa-rosada)\n\n[Instagram](https://www.instagram.com/museocasarosada/)\n\n**Nearby:**\nPlaza de Mayo, Metropolitan Cathedral, Puerto Madero"
     },
-    "imagen": "assets/images/museocasa.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/museocasa.png",
     "ubicacion": "Av. Paseo Colón 100, Monserrat",
     "categoria": "cultura",
     "latitud": -34.60867798711048,
@@ -147,7 +147,7 @@
       "es": "La Biblioteca Nacional, fundada en 1810, es un verdadero tesoro para amantes de los libros y la cultura. Con millones de volúmenes, documentos históricos y espacios amplios para estudiar o asistir a eventos culturales, es un lugar que combina historia con un ambiente tranquilo y lleno de conocimiento. Ideal para perderse entre páginas y descubrir la riqueza cultural de Argentina.\n\n[Sitio web oficial](https://www.bn.gov.ar/)\n\n**Cerca:**\nCementerio de la Recoleta, Facultad de Derecho, Floralis Genérica",
       "en": "The National Library, founded in 1810, is a true treasure for book lovers and culture enthusiasts. With millions of volumes, historical documents, and spacious areas for studying or attending cultural events, it’s a place that combines history with a peaceful atmosphere full of knowledge. Perfect for getting lost in pages and discovering Argentina’s rich culture.\n\n[Official website](https://www.bn.gov.ar/)\n\n**Nearby:**\nRecoleta Cemetery, Law School, Floralis Genérica"
     },
-    "imagen": "assets/images/biblioteca.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/biblioteca.png",
     "ubicacion": "Agüero 2502, Recoleta",
     "categoria": "cultura",
     "latitud": -34.584258264348016,
@@ -166,7 +166,7 @@
       "es": "El Ateneo Grand Splendid encabeza varios récords: es la librería más grande de Sudamérica, elegida por el diario británico *The Guardian* como la segunda mejor del mundo y destacada por la revista *National Geographic* como la más hermosa.\nMás que una librería, es un verdadero espectáculo para los sentidos. Inaugurado en 1919 como teatro y luego convertido en cine, aún conserva su imponente escenario, frescos y balcones originales. Hoy, transformado en librería, invita a perderse entre libros y admirar la arquitectura única de este icónico lugar porteño.\n\n[**Instagram**](https://www.instagram.com/elateneograndsplendid/)\n\n**Cerca:** Avenida Santa Fe, Plaza Italia, Jardín Botánico",
       "en": "El Ateneo Grand Splendid holds several records: it is the largest bookstore in South America, chosen by the British newspaper *The Guardian* as the second best in the world, and highlighted by *National Geographic* as the most beautiful.\nMore than just a bookstore, it’s a true feast for the senses. Opened in 1919 as a theater and later turned into a cinema, it still preserves its majestic stage, frescoes, and original balconies. Today, transformed into a bookstore, it invites you to get lost among the shelves and admire the unique architecture of this iconic Buenos Aires landmark.\n\n[**Instagram**](https://www.instagram.com/elateneograndsplendid/)\n\n**Nearby:** Santa Fe Avenue, Plaza Italia, Botanical Garden"
     },
-    "imagen": "assets/images/ateneo.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/ateneo.png",
     "ubicacion": "Av. Santa Fe 1860, Recoleta",
     "categoria": "cultura",
     "latitud": -34.59592145087174,
@@ -185,7 +185,7 @@
       "es": "El Museo Evita es una parada obligada para conocer de cerca la vida y el legado de una de las figuras más icónicas de Argentina. Ubicado en un elegante edificio de los años 20, el museo exhibe objetos personales, documentos, fotos y exposiciones que cuentan su historia desde distintos ángulos. Es un paseo ideal para entender su impacto en la historia política y social del país.\n\n[Sitio web oficial](https://museoevita.org.ar/)\n\n[Instagram](https://www.instagram.com/museoevita/)\n\n**Cerca:**\nJardín Botánico, Palermo",
       "en": "The Evita Museum is a must-visit to get an up-close look at the life and legacy of one of Argentina’s most iconic figures. Housed in an elegant 1920s building, the museum features personal belongings, documents, photographs, and exhibitions that tell her story from different perspectives. It’s the perfect stop to understand her impact on the country’s political and social history.\n\n[Official website](https://museoevita.org.ar/)\n\n[Instagram](https://www.instagram.com/museoevita/)\n\n**Nearby:**\nBotanical Garden, Palermo"
     },
-    "imagen": "assets/images/evita.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/evita.png",
     "ubicacion": "Lafinur 2988, Palermo",
     "categoria": "cultura",
     "latitud": -34.58046850571712,
@@ -205,7 +205,7 @@
       "es": "El Teatro Colón es uno de los grandes orgullos de Buenos Aires y un verdadero templo de las artes. Su acústica perfecta y su arquitectura imponente —que combina estilos neoclásico, barroco y renacentista— lo convierten en uno de los teatros más admirados del mundo. Recorrer sus pasillos, ver el telón desde la platea o asistir a una función es una experiencia que mezcla historia, belleza y pasión en cada detalle. Ya sea en una visita guiada o en un espectáculo, el Colón te envuelve con su magia desde el primer momento.\n\n[Sitio web oficial](https://teatrocolon.org.ar/visitas-guiadas/)\n\n**Cerca:**\nObelisco, Calle Corrientes",
       "en": "The Colon Theatre is one of Buenos Aires’ greatest treasures and a true temple of the arts. With its flawless acoustics and stunning architecture — blending neoclassical, baroque, and renaissance styles — it’s considered one of the most admired theatres in the world. Walking through its halls, seeing the stage from the stalls, or attending a performance is an experience that blends history, beauty, and passion in every detail. Whether on a guided tour or during a show, the Colón surrounds you with its magic from the very first moment.\n\n[Official website](https://teatrocolon.org.ar/guided-tours/)\n\n**Nearby:**\nObelisco, Calle Corrientes"
     },
-    "imagen": "assets/images/colon.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/colon.png",
     "ubicacion": "Cerrito 628, Microcentro",
     "categoria": "cultura",
     "latitud": -34.60103716762568,
@@ -224,12 +224,13 @@
       "es": "La Facultad de Derecho de la Universidad de Buenos Aires es uno de los edificios más imponentes de la ciudad. Con su fachada de columnas monumentales y su arquitectura de estilo neoclásico, es imposible no quedarse mirando. Aunque no seas estudiante, vale la pena acercarse para recorrer sus escaleras, admirar el salón de actos y disfrutar las vistas a la Plaza Naciones Unidas y la Floralis Genérica, que está justo enfrente. De noche, iluminada, se ve espectacular.\n\n**Cerca:**\nFloralis Genérica, Museo Nacional de Bellas Artes",
       "en": "The University of Buenos Aires Faculty of Law is one of the city’s most striking buildings. With its monumental columned façade and neoclassical architecture, it’s impossible not to stop and stare. Even if you’re not a student, it’s worth visiting to walk up its grand staircases, admire the main hall, and enjoy the views of Plaza Naciones Unidas and the Floralis Genérica sculpture just across the street. At night, when it’s lit up, it looks spectacular.\n\n**Nearby:**\nFloralis Genérica, Plaza Naciones Unidas, National Museum of Fine Arts"
     },
-    "imagen": "assets/images/uba.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/uba.png",
     "ubicacion": "Av. Pres. Figueroa Alcorta 2263, Recoleta",
     "categoria": "cultura",
     "latitud": -34.58246204309487,
     "longitud": -58.39163628184967
   }
 ]
+
 
 
