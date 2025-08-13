@@ -14,7 +14,7 @@
     
       "en": "If there’s a street that breathes pizza in Buenos Aires, it’s Corrientes. Here you’ll find the all-time classics like Güerrin and Banchero, where the crust is thick, the cheese stretches, and the fainá is always on the side.\n\nBut heads up — real-deal pizza is found in every neighborhood, in spots with ovens that never stop and tables full of friends chatting and laughing.\n\nEating pizza here isn’t just about filling up; it’s a porteño ritual to connect, enjoy, and savor the city with good vibes and great company.\n\nIn these places, you can buy slices to try different toppings or share with friends.\n\nSome of the most known ones are:\n- **Güerrin** — [Instagram](https://www.instagram.com/pizzaguerrin/)\n- **Banchero** — [Instagram](https://www.instagram.com/bancheropizza/)\n- **El Cuartito** — [Instagram](https://www.instagram.com/elcuartitopizza/)\n- **La Mezzetta** — [Instagram](https://www.instagram.com/pizzalamezzetta/)\n- **Los Inmortales** — [Instagram](https://www.instagram.com/losinmortalespizza/)"
     },
-    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/pizza.png",
+    "imagen": "https://github.com/Borro7/TurBA/raw/fbaac2f7769311cfe390bf38e3d76b3158b16aad/images/pizza.png",
     "ubicacion": "Av. Corrientes 1200, San Nicolás",
     "categoria": "comida",
     "latitud": -34.603766,
@@ -34,7 +34,7 @@
       "es": "Si querés probar cortes típicos argentinos como el bife de chorizo, el vacío y la entraña bien hechos, no busques solo los lugares más caros o turísticos. Los verdaderos secretos están en esas parrillas donde van los locales, donde el sabor y la tradición se sienten en cada bocado.\n\nNo te pierdas la provoleta, ese queso provolone fundido con especias que es un clásico infaltable para acompañar la carne.\n\nUn asado así no lo vas a encontrar en otro lado: es una experiencia auténtica, llena de sabor, pasión y tradición porteña que te va a encantar en cada bocado.\n\nAlgunas parrillas son:\n- **El boliche de Nico**\n- **La parrillita de Colegiales**\n- **Lo de Bebe**\n\nPero hay muchas más esperando a que las descubras.",
       "en": "If you want to try classic Argentine cuts like bife de chorizo, vacío, and entraña done right, don’t just go for the priciest or most touristy spots. The real gems are those grills locals flock to, where flavor and tradition come through in every bite.\n\nDon’t miss the provoleta, that melted provolone cheese with spices—a must-have classic to go with your meat.\n\nYou won’t find an asado like this anywhere else: it’s a real-deal, authentic experience packed with flavor, passion, and porteño tradition that you’ll love in every bite.\n\nSome grills to check out are:\n- **El boliche de Nico**\n- **La parrillita de Colegiales**\n- **Lo de Bebe**\n\nBut there are many more waiting for you to discover."
     },
-    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/asado-min.png",
+    "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/asado.png",
     "ubicacion": "Varios puntos en Buenos Aires",
     "categoria": "comida",
     "latitud": -34.6037,
@@ -124,6 +124,7 @@
 
 
 ]
+
 
 
 
