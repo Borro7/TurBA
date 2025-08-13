@@ -1,5 +1,25 @@
 [
   {
+  "titulo": {
+    "es": "Explora Buenos Aires",
+    "en": "Explore Buenos Aires"
+  },
+  "descripcion": {
+    "es": "Explorá la ciudad a tu manera, ya sea con un walking tour o en un hop on hop off bus. Podrás descubrir la historia, los secretos y la esencia de Buenos Aires.",
+    "en": "Explore the city your way, whether on a walking tour or a hop on hop off bus. You can uncover the history, secrets, and essence of Buenos Aires."
+  },
+  "detalles": {
+    "es": "Buenos Aires es una ciudad cosmopolita y vibrante, llena de historias y secretos por descubrir. Explorar la ciudad, ya sea en walking tours o en hop on hop off bus, es una excelente manera de conocer su historia, cultura y tradiciones.",
+    "en": "Buenos Aires is a vibrant and cosmopolitan city, full of stories and secrets waiting to be discovered. Exploring the city, whether on walking tours or hop on hop off buses, is a great way to learn about its history, culture, and traditions."
+  },
+  "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/walking_tour.png",
+  "ubicacion": "Buenos Aires",
+  "categoria": "experiencias",
+  "latitud": -34.6083,
+  "longitud": -58.3712
+},
+  
+  {
     "titulo": {
       "es": "Caminito",
       "en": "Caminito"
@@ -181,34 +201,10 @@
   "categoria": "experiencias",
   "latitud": -34.6037,
   "longitud": -58.3816
-},
-
-  {
-  "titulo": {
-    "es": "Explora Buenos Aires",
-    "en": "Explore Buenos Aires"
-  },
-  "descripcion": {
-    "es": "Explorá la ciudad a tu manera, ya sea con un walking tour o en un hop on hop off bus. Podrás descubrir la historia, los secretos y la esencia de Buenos Aires mientras la recorres a tu propio ritmo.",
-    "en": "Explore the city your way, whether on a walking tour or a hop on hop off bus. You can uncover the history, secrets, and essence of Buenos Aires as you explore it at your own pace."
-  },
-  "detalles": {
-    "es": "Buenos Aires es una ciudad cosmopolita y vibrante, una de las más grandes del mundo, llena de historias y secretos que esperan ser descubiertos. Ya sea caminando por sus barrios llenos de vida o recorriéndola en un hop on hop off bus, cada recorrido ofrece la oportunidad de aprender sobre su historia, cultura, arquitectura y tradiciones. Explorar la ciudad a tu propio ritmo te permitirá apreciar su diversidad, descubrir rincones inesperados y vivir experiencias únicas que solo se revelan al recorrerla de cerca.",
-    "en": "Buenos Aires is a vibrant and cosmopolitan city, one of the largest in the world, full of stories and secrets waiting to be discovered. Whether strolling through its lively neighborhoods or exploring it on a hop on hop off bus, each tour offers the chance to learn about its history, culture, architecture, and traditions. Exploring the city at your own pace allows you to appreciate its diversity, uncover hidden corners, and experience unique moments that only reveal themselves up close."
-  },
-  "imagen": "https://raw.githubusercontent.com/Borro7/TurBA/main/images/walking_tour.png",
-  "ubicacion": "Buenos Aires",
-  "categoria": "experiencias",
-  "latitud": -34.6083,
-  "longitud": -58.3712
 }
 
-  
-  
-
-
-
 ]
+
 
 
 
