@@ -14,7 +14,7 @@
     
       "en": "If there’s a street that breathes pizza in Buenos Aires, it’s Corrientes. Here you’ll find the all-time classics like Güerrin and Banchero, where the crust is thick, the cheese stretches, and the fainá is always on the side.\n\nBut heads up — real-deal pizza is found in every neighborhood, in spots with ovens that never stop and tables full of friends chatting and laughing.\n\nEating pizza here isn’t just about filling up; it’s a porteño ritual to connect, enjoy, and savor the city with good vibes and great company.\n\nIn these places, you can buy slices to try different toppings or share with friends.\n\nSome of the most known ones are:\n- **Güerrin** — [Instagram](https://www.instagram.com/pizzaguerrin/)\n- **Banchero** — [Instagram](https://www.instagram.com/bancheropizza/)\n- **El Cuartito** — [Instagram](https://www.instagram.com/elcuartitopizza/)\n- **La Mezzetta** — [Instagram](https://www.instagram.com/pizzalamezzetta/)\n- **Los Inmortales** — [Instagram](https://www.instagram.com/losinmortalespizza/)"
     },
-    "imagen": "assets/images/pizza.png",
+    "imagen": "https://github.com/Borro7/TurBA/raw/d159bd596690168aad5967bb7b451eceee811062/images/pizza.png",
     "ubicacion": "Av. Corrientes 1200, San Nicolás",
     "categoria": "comida",
     "latitud": -34.603766,
@@ -54,7 +54,7 @@
       "es": "En los últimos años, Buenos Aires ha vivido un renacer del vino en clave urbana. Los bares de vino se multiplican en los barrios más vibrantes, ofreciendo copas seleccionadas, etiquetas boutique y charlas que duran horas. En estos espacios, el vino se transforma en ritual cotidiano: un Malbec joven para brindar con amigos, un Pinot Noir para una cita íntima, un Bonarda para descubrir algo nuevo. Ir de copas en la ciudad es también sumergirse en su carácter: cálido, pasional y conversador.",
       "en": "In recent years, Buenos Aires has seen a revival of wine in an urban key. Wine bars have flourished in its most vibrant neighborhoods, offering curated glasses, boutique labels, and long conversations. Here, wine becomes a daily ritual — a young Malbec for toasting with friends, a Pinot Noir for a romantic evening, a Bonarda for something new. Going out for a drink is also diving into the city’s soul: warm, passionate, and full of stories."
     },
-    "imagen": "assets/images/vino.png",
+    "imagen": "https://github.com/Borro7/TurBA/raw/d159bd596690168aad5967bb7b451eceee811062/images/vino.png",
     "ubicacion": "Palermo/Chacarita/Recoleta, Buenos Aires",
     "categoria": "comida",
     "latitud": -34.583112,
@@ -75,7 +75,7 @@
       "es": "Los bodegones son esos lugares llenos de alma y sabor donde se come como en casa, con platos abundantes y vino de la casa que acompaña todo a la perfección. Es el rincón ideal para sentarse a charlar, probar comida tradicional y sentir la verdadera esencia porteña en cada bocado.\n\n¿Dónde encontrarlos? Están por todos lados: en cada barrio de Buenos Aires hay un bodegón a la vuelta de la esquina, así que no vas a tener que caminar mucho para disfrutar uno.",
       "en": "Bodegones are those soulful spots where you eat like you’re at home—hearty plates and house wine that make every meal just right. It’s the perfect place to sit back, have a chat, try traditional food, and soak up the real Buenos Aires vibe with every bite.\n\nWhere to find them? They’re everywhere—you’ll hardly have to walk far to find a bodegón around the corner in any Buenos Aires neighborhood."
     },
-    "imagen": "assets/images/bodegon.png",
+    "imagen": "https://github.com/Borro7/TurBA/raw/d159bd596690168aad5967bb7b451eceee811062/images/bodegon.png",
     "ubicacion": "Varias ubicaciones en Buenos Aires",
     "categoria": "comida",
     "latitud": -34.615,
@@ -95,7 +95,7 @@
       "es": " \n**Los de siempre** \n Los cafés más icónicos de Buenos Aires. Tienen mozos que sirven como si estuvieran en una película, salones antiguos llenos de detalles, y medialunas como las de antes. Perfectos para sumergirse en la historia de la ciudad con un cortado en la mano. \nEj.: Tortoni, La Biela, London City, Las Violetas. \n\n**Los de ahora** \nCafés de especialidad con baristas que conocen cada gramo de café que sirven. Ideal para sacar una buena foto, probar algo distinto y disfrutar de espacios modernos con onda. Todo pensado para que cada café sea una experiencia. \nEj.: Cuervo, Lattente, Lab, Negro, Coffee Town, Felix. \n\n**Cafecitos con onda** \nRincones con estilo propio: luces cálidas, decoración creativa y buena música. Son perfectos para sentarse sin apuro, trabajar con la notebook, o simplemente mirar la vida pasar desde una ventana. \nEj.: Café Flor, Salvaje Bakery, Café San Juan, Birkin. \n\n**Para brunchear bien** \nSi sos del team brunch, esta es tu sección. Jugos naturales, huevos revueltos, avocado toast, budines caseros y café del bueno. Perfectos para arrancar el día tarde pero con todo. \nEj.: Malvón, Pani, Olivia D, Cocu.",
       "en": "**The Classics** \nThese are the timeless cafés of Buenos Aires. Waiters in white shirts, vintage interiors, and croissants that haven't changed in decades. A must if you want to feel the city’s history while sipping a traditional cortado.\nE.g.: Tortoni, La Biela, London City, Las Violetas.\n\n**The Modern Ones**\nTrendy cafés with specialty coffee, expert baristas, clean aesthetics and a curated vibe. Great for grabbing a perfect cup, snapping a stylish photo, or simply soaking in the city’s modern café culture.\nE.g.: Cuervo, Lattente, Lab, Negro, Coffee Town, Felix.\n\n**Chill & Stylish Spots**\nCozy little places full of character. Warm lights, cool design, playlists on point, and creative menus. Perfect for reading, working, or enjoying a slow afternoon with a good latte.\nE.g.: Café Flor, Salvaje Bakery, Café San Juan, Birkin.\n\n**Brunch Heroes**\nThe ultimate late breakfast: natural juices, eggs, avocado toast, pancakes, homemade cakes and of course, top-notch coffee. Great if you want to fuel up before a long day of exploring.\nE.g.: Malvón, Pani, Olivia D, Cocu."
     },
-    "imagen": "assets/images/cafe.png",
+    "imagen": "https://github.com/Borro7/TurBA/raw/d159bd596690168aad5967bb7b451eceee811062/images/cafe.png",
     "ubicacion": "Diversos barrios, Buenos Aires",
     "categoria": "comida",
     "latitud": -34.6037,
@@ -115,7 +115,7 @@
       "es": "El helado en Buenos Aires es más que un postre: es un ritual. Encontrás heladerías artesanales en cada barrio, con sabores clásicos como dulce de leche o innovaciones como malbec con frutos rojos. Ideal para cerrar una caminata o compartir una charla nocturna.",
       "en": "In Buenos Aires, ice cream is more than dessert—it’s a ritual. You’ll find artisanal parlors in every neighborhood, offering classics like dulce de leche or bold twists like Malbec with berries. Perfect to wrap up a stroll or spark a late-night chat."
     },
-    "imagen": "assets/images/helado.png",
+    "imagen": "https://github.com/Borro7/TurBA/raw/d159bd596690168aad5967bb7b451eceee811062/images/helado.png",
     "ubicacion": "Diversas heladerías recomendadas por la ciudad",
     "categoria": "comida",
     "latitud": -34.6037,
@@ -124,5 +124,6 @@
 
 
 ]
+
 
 
