@@ -1,0 +1,96 @@
+{
+  "es": [
+    {
+      "icon": "security",
+      "title": "Seguridad",
+      "items": [
+        "Evitá usar el celular mientras caminás por la calle.",
+        "Cuidá tus pertenencias en zonas turísticas o muy concurridas.",
+        "No aceptes cambiar dinero en la calle.",
+        "En el transporte público, mantené tus pertenencias a la vista.",
+        "Ante cualquier emergencia contactarse al 911."
+      ],
+      "notaExtra": "Si bien Buenos Aires es una ciudad segura, siempre es bueno estar atento y ser precavido."
+    },
+    {
+      "icon": "payments",
+      "title": "Pagos",
+      "items": [
+        "En la mayoría de los lugares se acepta tarjeta.",
+        "Siempre es útil llevar algo de efectivo.",
+        "Usá casas de cambio oficiales o apps reconocidas para cambiar moneda.",
+        "En mercados o ferias, el pago suele ser en efectivo."
+      ],
+      "notaExtra": null
+    },
+    {
+      "icon": "transport",
+      "title": "Transporte",
+      "items": [
+        "Para pagar el transporte público (colectivos, trenes y subte) necesitás una tarjeta SUBE, que se vende en kioscos y estaciones. Lentamente se ha comenzado a aceptar el pago contactless con tarjeta o dispositivos móviles.",
+        "Uber, Cabify y taxis funcionan bien.",
+        "Muchas zonas turísticas se pueden recorrer caminando.",
+        "El subte (metro) es una opción rápida y económica.",
+        "Existe un servicio de bicicletas públicas, [BA EcoBici](https://baecobici.com.ar/), que requiere registro. La ciudad cuenta con muchas bicisendas disponibles."
+      ],
+      "notaExtra": null
+    },
+    {
+      "icon": "customs",
+      "title": "Costumbres y Horarios",
+      "items": [
+        "Los restaurantes suelen abrir para la cena después de las 20:00.",
+        "Las propinas no son obligatorias, pero se acostumbra dejar un 10%.",
+        "La vida nocturna empieza tarde y se extiende hasta la madrugada."
+      ],
+      "notaExtra": null
+    }
+  ],
+  "en": [
+    {
+      "icon": "security",
+      "title": "Safety",
+      "items": [
+        "Avoid using your phone while walking on the street.",
+        "Take care of your belongings in touristy or crowded areas.",
+        "Do not accept money exchanges on the street.",
+        "Keep your belongings in sight on public transportation.",
+        "In case of emergency, contact 911."
+      ],
+      "notaExtra": "Although Buenos Aires is a safe city, it's always good to stay alert and be cautious."
+    },
+    {
+      "icon": "payments",
+      "title": "Payments",
+      "items": [
+        "Most places accept credit or debit cards.",
+        "It's always useful to carry some cash.",
+        "Use official exchange houses or recognized apps to change money.",
+        "Payments at markets or fairs are usually made in cash."
+      ],
+      "notaExtra": null
+    },
+    {
+      "icon": "transport",
+      "title": "Transportation",
+      "items": [
+        "To pay for public transport (buses, trains, and subway), you need a SUBE card, which is sold at kiosks and stations. Contactless payment with cards or mobile devices is slowly being accepted.",
+        "Uber, Cabify, and taxis work well.",
+        "Many tourist areas can be explored on foot.",
+        "The subway (metro) is a fast and economical option.",
+        "There is a public bike service, [BA EcoBici](https://baecobici.com.ar/), which requires registration. The city has many bike lanes available."
+      ],
+      "notaExtra": null
+    },
+    {
+      "icon": "customs",
+      "title": "Customs and Schedules",
+      "items": [
+        "Restaurants usually open for dinner after 8:00 PM.",
+        "Tips are not mandatory, but leaving 10% is customary.",
+        "The nightlife starts late and goes until the early morning."
+      ],
+      "notaExtra": null
+    }
+  ]
+}
